@@ -1,0 +1,1162 @@
+[
+    {
+        "question": "<img src='znak1.png' class='znak' alt=''> <br> Co oznacza znak:",
+        "options": ["Miejsce strzeżone przez ratownika wodnego,", "Nakaz ustawicznego nadzoru nad dziećmi,", "Uwaga prądy wsteczne."],
+        "correctAnswer": "Nakaz ustawicznego nadzoru nad dziećmi,"
+    },
+    {
+        "question": "<img src='znak2.jpg' class='znak' alt=''> <br> Co oznacza znak:",
+        "options": ["Nakaz ustawicznego nadzoru nad dziećmi,", "Nakaz zakładania kamizelek ratunkowych", "Uwaga zimna wodna nakaz zakładania pianek do pływania"],
+        "correctAnswer": "Nakaz zakładania kamizelek ratunkowych"
+    },
+    {
+        "question": "<img src='znak3.png' class='znak' alt=''> <br> Co oznacza znak:",
+        "options": ["Zakaz pływania wpław oraz na łodziach motorowych,", "Kąpiel zabroniona szlak żeglowny", "Zakaz kąpieli z jednostek pływających."],
+        "correctAnswer": "Kąpiel zabroniona szlak żeglowny"
+    },
+    {
+        "question": "<img src='znak4.png' class='znak' alt=''> <br> Co oznacza znak:",
+        "options": ["To znak zakazu - skały podwodne,", "To znak informacyjny skały podwodne", "Kąpiel zabroniona - kamieniste dno"],
+        "correctAnswer": "To znak informacyjny skały podwodne"
+    },
+    {
+        "question": "<img src='znak5.png' class='znak' alt=''> <br> Co oznacza znak:",
+        "options": ["Plaża strzeżona za 300 metrów w kierunku wskazanym na znaku,", "Plaża strzeżona o szerokości 300 metrów", "Kąpiel dozwolona w odległości do 300 metrów od znaku"],
+        "correctAnswer": "Plaża strzeżona za 300 metrów w kierunku wskazanym na znaku,"
+    },
+    {
+        "question": "<img src='znak6.jpg' class='znak' alt=''> <br> Co oznacza znak:",
+        "options": ["skakanie na głowę zabronione, na nogi dozwolone,", "skoki do wody tylko za zgodą ratownika wodnego,", "skakanie do wody zabronione."],
+        "correctAnswer": "skakanie do wody zabronione."
+    },
+    {
+        "question": "<img src='znak7.jpg' class='znak' alt=''> <br> Co oznacza znak:",
+        "options": ["Kąpiel na własną odpowiedzialność,", "Uwaga wysokie fale", "kąpiel zabroniona."],
+        "correctAnswer": "kąpiel zabroniona."
+    },  
+    {
+      "question": "Wymagania, które trzeba spełnić przed pojęciem pracy w charakterze ratownika wodnego określa:",
+      "options": ["Uchwała WOPR nr 1024", "Zarządzający wyznaczonym obszarem wodnym", "Ustawa o bezpieczeństwie osób przebywających na obszarach wodnych z dnia z dnia 18 sierpnia 2011r."],
+      "correctAnswer": "Ustawa o bezpieczeństwie osób przebywających na obszarach wodnych z dnia z dnia 18 sierpnia 2011r."
+    },
+    {
+      "question": "Od 01 stycznia 2012r potwierdzeniem posiadanie wiedzy i umiejętności z zakresu ratownictwa wodnego i technik pływackich jest",
+      "options": ["zaświadczenie o ukończeniu szkolenia ratowników wodnych według wzoru podanego w rozporządzeniu MSW.", "stopień WOPP w legitymacji WOPR", "dowolny dokument potwierdzający ukończenie szkolenia ratowników wodnych np. : dyplom."],
+      "correctAnswer": "zaświadczenie o ukończeniu szkolenia ratowników wodnych według wzoru podanego w rozporządzeniu MSW."
+    },
+    {
+      "question": "Rodzaje Kwalifikacji przydatnych w ratownictwie wodnym określa:",
+      "options": ["Uchwała WOPR nr 965", "Zarządzający wyznaczonym obszarem wodnym w zależności od specyfiki pracy,", "Rozporządzenie Ministra Spraw Wewnętrznych"],
+      "correctAnswer": "Rozporządzenie Ministra Spraw Wewnętrznych"
+    },
+    {
+      "question": "Czy można wykonywać zawód ratownikawodnego nie posiadając przynajmniej jednej z innych kwalifikacji przydatnych w ratownictwie wodnym (np. sternik motorowodny):",
+      "options": ["Tak", "Nie", "tak, uzależnione jest to od decyzji przełożonego"],
+      "correctAnswer": "Nie"
+    },
+    {
+        "question": "Ile innych kwalifikacji przydatnych w ratownictwie wodnym należy posiadać wykonując zawód ratownika wodnego:",
+        "options": ["przynajmniej jedną, niezależnie od miejsca pracy,", "Zależy to od decyzji pracodawcy", "Nie jest wymagane, chyba że wymaga tego specyfika pracy na danym stanowisku."],
+        "correctAnswer": "przynajmniej jedną, niezależnie od miejsca pracy,"
+    },
+    {
+        "question": "Ile lat ważne jest zaświadczenie potwierdzające ukończenie kursu kwalifikowanej pierwszej pomocy:",
+        "options": ["dwa lata", "jest bezterminowe", "trzy lata"],
+        "correctAnswer": "trzy lata"
+    },
+    {
+        "question": "Ile lat ważne jest zaświadczenie potwierdzające ukończenie szkolenia ratowników wodnych:",
+        "options": ["2 lata", "jest bezterminowe", "3 lata"],
+        "correctAnswer": "jest bezterminowe"
+    },
+    {
+        "question": "Czy osoba niepełnoletnia (bez pełnych zdolność do czynności prawnych), może pracować jako ratownik wodny:",
+        "options": ["Tak, za zgodą rodziców", "Nie", "zależy od decyzji przacodawcy"],
+        "correctAnswer": "Nie"
+    },
+    {
+        "question": "Zanim podejmiemy prace zawodowego ratownika należy przejść praktyki w wymiarze:",
+        "options": ["100 godzin", "50 godzin", "nie są wymagane"],
+        "correctAnswer": "nie są wymagane"
+    },
+    {
+        "question": "Posiadanie przynajmniej jednej innej kwalifikacji przydatnych w ratownictwie wodnym (np.: sternik motorowodny):",
+        "options": ["jest obowiązkowe, jeżeli chcemy wykonywać zawód ratownika wodnego,", "nie są wymagane na pływalni, tylko kąpieliska na wodach otwartych,", "od 2012r nie są już wymagane."],
+        "correctAnswer": "jest obowiązkowe, jeżeli chcemy wykonywać zawód ratownika wodnego,"
+    },
+    {
+        "question": "Obowiązki ratownika wodnego w pierwszej kolejności reguluje:",
+        "options": ["WOPR w drodze uchwały zarządu,", "Ustawa z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych,", "pracodawca."],
+        "correctAnswer": "Ustawa z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych,"
+    },
+    {
+        "question": "Ratownik wodny zobowiązany jest do udzielania w pracy:",
+        "options": ["Kwalifikowanej pierwszej pomocy,", "Pierwszej pomocy,", "Medycznych czynności ratunkowych."],
+        "correctAnswer": "Kwalifikowanej pierwszej pomocy,"
+    },
+    {
+        "question": "Do ustawowych obowiązków ratownika wodnego NIE należy: ",
+        "options": ["przegląd stanu urządzeń i sprzętu wykorzystywanego do ratownictwa wodnego,", "sprawdzanie biletów, dbanie o utrzymanie czystości i porządku w szatni,", "niezwłoczne reagowanie na każdy sygnał wzywania pomocy."],
+        "correctAnswer": "sprawdzanie biletów, dbanie o utrzymanie czystości i porządku w szatni,"
+    },
+    {
+        "question": "Do ustawowych obowiązków ratownika wodnego należy: ",
+        "options": ["bieżące dokumentowanie prowadzonych działań ratowniczych", "sprawdzanie biletów wstępu na obiekt,", "kontrola czystości w szatniach."],
+        "correctAnswer": "bieżące dokumentowanie prowadzonych działań ratowniczych"
+    },
+    {
+        "question": "Do ustawowych obowiązków ratownika wodnego należy:",
+        "options": ["kontrola czystości osób wchodzących na obiekt, ", "sprawdzanie biletów wstępu na obiekt,", "wywieszanie na maszcie odpowiednich flag informacyjnych"],
+        "correctAnswer": "wywieszanie na maszcie odpowiednich flag informacyjnych"
+    },
+    {
+        "question": "Do ustawowych obowiązków ratownika wodnego NIE należy: ",
+        "options": ["zapobieganie skutkom zagrożeń,", "kontrola czystości osób wchodzących na obiekt,", "wpisywanie na tablicy informacyjnej temperatury wody, powietrza."],
+        "correctAnswer": "kontrola czystości osób wchodzących na obiekt,"
+    },
+    {
+        "question": "Do ustawowych obowiązków ratownika wodnego NIE należy: ",
+        "options": ["niezwłoczne reagowanie na każdy sygnał wzywania pomocy oraz podejmowanie akcji ratowniczej ", "określanie głębokości wyznaczonego obszaru wodnego", "kontrola czystości osób wchodzących na obiekt,"],
+        "correctAnswer": "kontrola czystości osób wchodzących na obiekt,"
+    },
+    {
+        "question": "Ratownik wodny niezwłocznie informuje o zagrożeniach bezpieczeństwa osób przebywających na obszarze wodnym:",
+        "options": ["swojego przełożonego,", "zarządzającego obszarem wodnym,", "obydwie odpowiedzi są prawidłowe."],
+        "correctAnswer": "obydwie odpowiedzi są prawidłowe."
+    },
+    {
+        "question": "Ratownik wodny zobowiązany jest do informowania o zagrożeniach bezpieczeństwa osób przebywających na obszarze wodnym swojego przełożonego oraz zarządzającego obszarem wodnym w terminie",
+        "options": ["Niezwłocznie", "Do końca swojego dyżuru", "Termin wyznacza przełożony"],
+        "correctAnswer": "Niezwłocznie"
+    },
+    {
+        "question": "Do ustawowych obowiązków ratownika wodnego NIE należy:",
+        "options": ["oznakowanie i zabezpieczenie terenów, obiektów i urządzeń przeznaczonych do pływania, kąpania się, uprawiania sportu lub rekreacji na obszarach wodnych;", "niezwłoczne informowanie zarządzającego oraz swojego przełożonego o zagrożeniach bezpieczeństwa osób przebywających na obszarze wodnym,", "bieżące dokumentowanie prowadzonych działań ratowniczych,"],
+        "correctAnswer": "oznakowanie i zabezpieczenie terenów, obiektów i urządzeń przeznaczonych do pływania, kąpania się, uprawiania sportu lub rekreacji na obszarach wodnych;"
+    },
+    {
+        "question": "Do ustawowych obowiązków ratownikawodnego należy:",
+        "options": ["oznakowanie i zabezpieczenie terenów, obiektów i urządzeń przeznaczonych do pływania, kąpania się, uprawiania sportu lub rekreacji na obszarach wodnych;", "wytyczanie strefy dla umiejących i nieumiejących pływać,", "bieżące dokumentowanie prowadzonych działań ratowniczych."],
+        "correctAnswer": "bieżące dokumentowanie prowadzonych działań ratowniczych."
+    },
+    {
+        "question": "Do ustawowych obowiązków ratownika wodnego NIE należy:",
+        "options": ["Zapobieganie skutkom zagrożeń,", "oczyszczanie powierzchni dna obszaru przeznaczonego do pływania lub kąpieli z wszelkich przedmiotów mogących spowodować skaleczenie lub inny wypadek,", "wywieszanie na maszcie odpowiednich flag sygnałowych.."],
+        "correctAnswer": "oczyszczanie powierzchni dna obszaru przeznaczonego do pływania lub kąpieli z wszelkich przedmiotów mogących spowodować skaleczenie lub inny wypadek,"
+    },
+    {
+        "question": "Utworzenie stanowiska do obserwacji wyznaczonego obszaru wodnego należy do obowiązków:",
+        "options": ["Ratownika wodnego", "Zarządzającego obszarem wodnym", "Nie zostało to określone w przepisach."],
+        "correctAnswer": "Zarządzającego obszarem wodnym"
+    },
+    {
+        "question": "wytyczanie strefy dla umiejących i nieumiejących pływać należy do ustawowych obowiązków:",
+        "options": ["Nie zostało to określone w przepisach,", "Ratownika wodnego,", "Zarządzającego obszarem wodnym."],
+        "correctAnswer": "Zarządzającego obszarem wodnym"
+    },
+    {
+        "question": "Do ustawowych obowiązków ratownika wodnego należy:",
+        "options": ["wyposażenie w sprzęt ratunkowy i pomocniczy oraz urządzenia sygnalizacyjne i ostrzegawcze (wzrokowe i słuchowe);", "oczyszczanie powierzchni dna obszaru przeznaczonego do pływania lub kąpieli z wszelkich przedmiotów mogących spowodować skaleczenie lub inny wypadek;", "bieżące dokumentowanie prowadzonych działań ratowniczych."],
+        "correctAnswer": "bieżące dokumentowanie prowadzonych działań ratowniczych."
+    },
+    {
+        "question": "Ratownik wodny korzysta z ochrony przewidzianej dla funkcjonariusza publicznego w czasie:",
+        "options": ["Prowadzenia działań ratowniczych,", "Przez całą dobę,", "trwania dyżuru."],
+        "correctAnswer": "Prowadzenia działań ratowniczych,"
+    },
+    {
+        "question": "Czy osoba będąca ratownikiem wodnym korzysta z ochrony przewidzianej dla funkcjonariuszy publicznych:",
+        "options": ["Nie,", "Tak, całą dobę,", "Tak, podczas prowadzenia działań ratowniczych."],
+        "correctAnswer": "Tak, podczas prowadzenia działań ratowniczych."
+    },
+    {
+        "question": "w czasie działań ratowniczych prawo bezpłatnego wstępu na teren parku narodowego i rezerwatu udostępnionego dla ruchu turystycznego na podstawie ważnej legitymacji służbowej mają:",
+        "options": ["Ratownik wodny,", "Ratownik wodny z psem ratowniczym,", "Obydwie odpowiedzi są prawidłowe"],
+        "correctAnswer": "Obydwie odpowiedzi są prawidłowe"
+    },
+    {
+        "question": "Ratownik wodny prowadząc działania ratownicze może poświęcić w zakresie, w jakim jest to niezbędne do ratowania życia lub zdrowia osoby znajdującej się w stanie nagłego zagrożenia zdrowotnego:",
+        "options": ["dobra osobiste innej osoby, inne niż życie,", "dobra osobiste innej osoby, inne niż życie lub zdrowie,", "dobra osobiste, ale tylko za zgodą poszkodowanego"],
+        "correctAnswer": "Tak, podczas prowadzenia działań ratowniczych."
+    },
+    {
+        "question": "Szczegółowe zasady wywieszania flag sygnałowych określa:",
+        "options": ["Zarząd Główny WOPR w formie uchwały zarządu", "Ratownik wodny w formie regulaminu kąpieliska,", "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 6 marca 2012 r."],
+        "correctAnswer": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 6 marca 2012 r."
+    },
+    {
+        "question": "Kto odpowiada za kontrolę warunków pogodowych i wywieszanie flag sygnałowych:",
+        "options": ["Zarządzający wyznaczonym obszarem wodnym,", "Wyznaczony do tego zadania ratownik wodny,", "Specjalnie do tego celu zatrudniony meteorolog"],
+        "correctAnswer": "Wyznaczony do tego zadania ratownik wodny,"
+    },
+    {
+        "question": "Czy osoba będąca ratownikiem wodnym korzysta z ochrony przewidzianej dla funkcjonariuszy publicznych:",
+        "options": ["Nie,", "Tak, całą dobę,", "Tak, podczas prowadzenia działań ratowniczych."],
+        "correctAnswer": "Tak, podczas prowadzenia działań ratowniczych."
+    },
+    {
+        "question": "Flaga czerwona na kąpielisku oznacza:",
+        "options": ["zakaz kąpieli,", "zakaz kąpieli tylko w strefie dla umiejących pływać,", "zakaz kąpieli, brak dyżuru ratowników"],
+        "correctAnswer": "zakaz kąpieli,"
+    },
+    {
+        "question": "Czerwona flaga na kąpielisku oznacza:",
+        "options": ["kąpiel na własną odpowiedzialność", "zakaz kąpieli,", "zakaz kąpieli, brak dyżuru ratowników"],
+        "correctAnswer": "zakaz kąpieli,"
+    },
+    {
+        "question": "Czerwona flaga na kąpielisku oznacza:",
+        "options": ["Brak dyżuru ratowników, kąpiel na własna odpowiedzialność.", "zakaz kąpieli,", "Kąpiel dozwolona tyko w strefie dla nieumiejących pływać."],
+        "correctAnswer": "zakaz kąpieli,"
+    },
+    {
+        "question": "Brak flagi sygnałowej na kąpielisku oznacza:",
+        "options": ["trwa akcja ratownicza,", "zakaz kąpieli,", "brak dyżuru ratowników,"],
+        "correctAnswer": "brak dyżuru ratowników,"
+    },
+    {
+        "question": "Czarna flaga na kąpielisku oznacza:",
+        "options": ["trwa akcja ratownicza,", "bardzo niebezpieczne warunki np.: sztorm lub burza,", "nie ma flagi sygnalizacyjnej takiego koloru."],
+        "correctAnswer": "nie ma flagi sygnalizacyjnej takiego koloru."
+    },
+    {
+        "question": "Czerwoną flagę wywiesza się, gdy: ",
+        "options": ["widoczność jest ograniczona do 100 m,", "występują silne prądy wsteczne,", "temperatura wody jest poniżej 18 stopni Celsjusza"],
+        "correctAnswer": "występują silne prądy wsteczne,"
+    },
+    {
+        "question": "Czerwoną flagę wywiesza się, gdy: ",
+        "options": ["widoczność jest ograniczona do 100 m,", "prędkość nurtu wody przekracza 0,5 m/s;", "występują wyładowania atmosferyczne."],
+        "correctAnswer": "występują wyładowania atmosferyczne."
+    },
+    {
+        "question": "Zakaz kąpieli obowiązuje na kąpielisku, kiedy siła wiatru przekracza:",
+        "options": ["5 Beauforta,", "5 Busola,", "5 Bufolta,"],
+        "correctAnswer": "5 Beauforta,"
+    },
+    {
+        "question": "Który z warunków wywieszania czerwonej flagi podany jest nieprawidłowo:",
+        "options": ["występuje fala powyżej 70 cm, z pojawiającymi się pienistymi białymi grzywami,", "trwa akcja ratownicza,", "prędkość nurtu wody przekracza 2 m/s."],
+        "correctAnswer": "prędkość nurtu wody przekracza 2 m/s."
+    },
+    {
+        "question": "Który z warunków wywieszania czerwonej flagi podany jest nieprawidłowo:",
+        "options": ["temperatura wody wynosi poniżej 18oC,", "widoczność jest ograniczona do 50 m,", "szybkość wiatru przekracza 5 stopni w skali Beauforta."],
+        "correctAnswer": "temperatura wody wynosi poniżej 18oC."
+    },
+    {
+        "question": "Który z warunków wywieszania czerwonej flagi podany jest nieprawidłowo:",
+        "options": ["temperatura wody wynosi poniżej 14oC,", "widoczność jest ograniczona do 80 m,", "szybkość wiatru przekracza 5 stopni w skali Beauforta."],
+        "correctAnswer": "widoczność jest ograniczona do 80 m,"
+    },
+    {
+        "question": "Który z warunków wywieszania czerwonej flagi podany jest nieprawidłowo:",
+        "options": ["temperatura wody wynosi poniżej 14oC,", "widoczność jest ograniczona do 50 m,", "szybkość wiatru przekracza 6 stopni w skali Beauforta."],
+        "correctAnswer": "szybkość wiatru przekracza 6 stopni w skali Beauforta."
+    },
+    {
+        "question": "Szybkość prądu wody w obrębie kąpieliska nie powinna przekraczać:",
+        "options": ["0,5 m/s", "0,3 m/s", "1 m/s"],
+        "correctAnswer": "1 m/s"
+    },
+    {
+        "question": "Czerwoną flagę wywiesza się, gdy temperatura wody wynosi:",
+        "options": ["Poniżej 14 stopni,", "Poniżej 18 stopni,", "Poniżej 20 stopni,"],
+        "correctAnswer": "Poniżej 14 stopni,"
+    },
+    {
+        "question": "Który z warunków wywieszania czerwonej flagi podany jest nieprawidłowo:",
+        "options": ["występuje fala powyżej 70 cm, z pojawiającymi się pienistymi białymi grzywami,", "prędkość nurtu wody przekracza 2m/s;", "występuje chemiczne lub biologiczne skażenie wody;"],
+        "correctAnswer": "prędkość nurtu wody przekracza 2m/s;"
+    },
+    {
+        "question": "Który z warunków wywieszania czerwonej flagi podany jest nieprawidłowo:",
+        "options": ["występuje fala powyżej 90 cm, z pojawiającymi się pienistymi białymi grzywami,", "prędkość nurtu wody przekracza 1m/s;", "występuje chemiczne lub biologiczne skażenie wody;"],
+        "correctAnswer": "występuje fala powyżej 90 cm, z pojawiającymi się pienistymi białymi grzywami,"
+    },
+    {
+        "question": "Który z warunków wywieszania czerwonej flagi podany jest prawidłowy:",
+        "options": ["występuje fala powyżej 70 cm, z pojawiającymi się pienistymi białymi grzywami,", "występuje fala powyżej 70 cm,", "występuje fala powyżej 90 cm,"],
+        "correctAnswer": "występuje fala powyżej 70 cm, z pojawiającymi się pienistymi białymi grzywami,"
+    },
+    {
+        "question": "Siłę wiatru określa:",
+        "options": ["skala Beauforta", "skala Bernouliego", "skala Breila"],
+        "correctAnswer": "skala Beauforta"
+    },
+    {
+        "question": "Temperaturę wody należy mierzyć:",
+        "options": ["w strefie dennej kąpieliska", "1 m pod powierzchnią wody", "tam, gdzie przebywa ratownik"],
+        "correctAnswer": "1 m pod powierzchnią wody"
+    },
+    {
+        "question": "Sposób oznakowania kąpielisk reguluje:",
+        "options": ["WOPR podczas audytu,", "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 6 marca 2012 r. w sprawie sposobu oznakowania i zabezpieczania obszarów wodnych oraz wzorów znaków zakazu, nakazu oraz znaków informacyjnych i flag", "ROZPORZĄDZENIE RADY MINISTRÓW nr 358 z dnia 6 maja 1997 r. w sprawie określenia warunków bezpieczeństwa osób przebywających w górach, pływających, kąpiących się i uprawiających sporty wodne"],
+        "correctAnswer": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 6 marca 2012 r. w sprawie sposobu oznakowania i zabezpieczania obszarów wodnych oraz wzorów znaków zakazu, nakazu oraz znaków informacyjnych i flag"
+    },
+    {
+        "question": "Granice kąpieliska (ze wszystkich stron), oznacza się bojami koloru:",
+        "options": ["żółtymi", "czerwonymi", "białymi"],
+        "correctAnswer": "żółtymi"
+    },
+    {
+        "question": "Czerwone boje na kąpielisku oznaczają:",
+        "options": ["koniec strefy dla umiejących pływać i głębokość do 4 metrów,", "brodzik dla dzieci,", "granicę pomiędzy strefami dla umiejących i nie umiejących pływać."],
+        "correctAnswer": "granicę pomiędzy strefami dla umiejących i nie umiejących pływać."
+    },
+    {
+        "question": "Brodzik dla dzieci oznaczony powinien być:",
+        "options": ["pływakami w kolorze białym oraz siatką sięgającą do dna,", "pływakami w kolorze białym,", "żółtymi bojami."],
+        "correctAnswer": "pływakami w kolorze białym oraz siatką sięgającą do dna,"
+    },
+    {
+        "question": "Boje ograniczające strefę dla umiejących pływać oznacza się kolorem:",
+        "options": ["żółtym,", "czerwonym,", "zielonym"],
+        "correctAnswer": "żółtym,"
+    },
+    {
+        "question": "Maksymalna głębokość w pięciometrowej strefie bezpieczeństwa za czerwonymi bojami to:",
+        "options": ["4m", "1.3m", "1.2m"],
+        "correctAnswer": "1.3m"
+    },
+    {
+        "question": "Maksymalna głębokość w strefie dla nieumiejących pływać to:",
+        "options": ["4m", "1.3m", "1.2m"],
+        "correctAnswer": "1.2m"
+    },
+    {
+        "question": "Maksymalna głębokość w strefie dla umiejących pływać to:",
+        "options": ["4m", "1.3m", "1.2m"],
+        "correctAnswer": "4m"
+    },
+    {
+        "question": "Maksymalna głębokość brodzika dla dzieci to:",
+        "options": ["40cm", "0.5m", "do pasa dziecka"],
+        "correctAnswer": "40cm"
+    },
+    {
+        "question": "Maksymalna długość kąpieliska w głąb wody to:",
+        "options": ["50 metrów", "25 metrów", "nie ma ograniczeń,"],
+        "correctAnswer": "50 metrów"
+    },
+    {
+        "question": "Na kąpielisku bez pomostów informacje o głębokości wody należy umieścić:",
+        "options": ["na bojach ograniczających poszczególne strefy,", "na tablicy informacyjnej wraz informacją o temperaturze wody i powietrza,", "nie ma takiego obowiązku."],
+        "correctAnswer": "na bojach ograniczających poszczególne strefy,"
+    },
+    {
+        "question": "Obszary wodne objęte zakazami kąpieli powinno się",
+        "options": ["trwale ogrodzić", "oznaczyć stosownymi znakami", "podać do publicznej wiadomości w lokalnej prasie."],
+        "correctAnswer": "oznaczyć stosownymi znakami"
+    },
+    {
+        "question": "Na pływali napisów z informacją o głębokości wody należy umieścić.",
+        "options": ["na ścianach lub dnie niecek basenowych", "nie ma takiego obowiązku", "na słupkach startowych"],
+        "correctAnswer": "na ścianach lub dnie niecek basenowych"
+    },
+    {
+        "question": "Jeżeli na znaku zakazu lub nakazu nie ma podanej odległości obowiązuje on na obszarze wodnym:",
+        "options": ["w zasięgu wzroku,", "100 metrów od znaku", "200 metrów od znaku."],
+        "correctAnswer": "w zasięgu wzroku,"
+    },
+    {
+        "question": "Ilość i rodzaj sprzętu ratunkowego na wyznaczonych obszarach wodnych określa:",
+        "options": ["Rozporządzenie Ministra Spraw Wewnętrznych", "WOPR podczas audytu", "Zarządzający obszarem wodnym."],
+        "correctAnswer": "Rozporządzenie Ministra Spraw Wewnętrznych"
+    },
+    {
+        "question": "Koło ratunkowe lub pas ratunkowy jest obowiązkowym wyposażeniem:",
+        "options": ["pływalni,", "kąpieliska,", "wszystkie odpowiedzi są prawdziwe."],
+        "correctAnswer": "wszystkie odpowiedzi są prawdziwe."
+    },
+    {
+        "question": " Łódź wiosłowa na „kąpielisku” przypada na każde:",
+        "options": ["50 m linii brzegowej,", "100 m linii brzegowej,", " 200 m linii brzegowej."],
+        "correctAnswer": "100 m linii brzegowej,"
+    },
+    {
+        "question": "Łódź motorowa w „miejscu okazjonalnie wykorzystywanym do kąpieli” przypada na każde:",
+        "options": ["nie jest wymagana", "na 400 metrów linii brzegowe", "na 800 metrów linii brzegowe"],
+        "correctAnswer": "nie jest wymagana"
+    },
+    {
+        "question": "Łódź motorowa na kąpielisku przypada:",
+        "options": ["nie jest wymagana", "na 400 metrów linii brzegowe", "na 800 metrów linii brzegowe"],
+        "correctAnswer": "na 400 metrów linii brzegowe"
+    },
+    {
+        "question": "Minimalna długość żerdzi na pływalni to:",
+        "options": ["2m", "4m", "bez ograniczeń"],
+        "correctAnswer": "4m"
+    },
+    {
+        "question": "Na kąpielisku wyposażonym w pomosty, dodatkowo powinny znaleźć się:",
+        "options": ["knagi do cumowania łodzi,", "żerdzie,", " nie ma dodatkowych wymagań co do wyposażenia"],
+        "correctAnswer": "żerdzie,"
+    },
+    {
+        "question": "Akustyczny sygnał alarmowy typu gwizdek, gong, dzwon lub syrena jest wyposażeniem:",
+        "options": ["każdego stanowiska ratowniczego niezależnie od rodzaju obiektu", "stanowiska ratowniczego na wodach otwartych", "mogą, ale nie muszą być w wyposażeniu."],
+        "correctAnswer": "każdego stanowiska ratowniczego niezależnie od rodzaju obiektu"
+    },
+    {
+        "question": "Zestaw do nurkowania (płetwy, maska, fajka) na kąpielisku przypada:",
+        "options": ["na każde stanowisko ratownicze", "na 100 metrów linii brzegowej,", "po jednym komplecie dla każdego ratownika wodnego;"],
+        "correctAnswer": "po jednym komplecie dla każdego ratownika wodnego;"
+    },
+    {
+        "question": "Bojka ratunkowa nazywana jest również:",
+        "options": ["bojka „SP”, „Pamelka”", "boja cumownicza", "boja pływakowa"],
+        "correctAnswer": "bojka „SP”, „Pamelka”"
+    },
+    {
+        "question": "Bojka ratunkowa to:",
+        "options": ["podręczny sprzęt ratunkowy,", "boja cumownicza", "inaczej zwana ,,podbierak”"],
+        "correctAnswer": "bojka „SP”, „Pamelka”"
+    },
+    {
+        "question": "Bojka ratunkowa służy do:",
+        "options": ["holowania poszkodowanego,", "rzutów na odległość,", "unieruchamiania kończyny."],
+        "correctAnswer": "holowania poszkodowanego,"
+    },
+    {
+        "question": "Pas ratunkowy, to inaczej:",
+        "options": ["szczupak", "węgorz", "delfin"],
+        "correctAnswer": "węgorz"
+    },
+    {
+        "question": "Pas ratunkowy służy do:",
+        "options": ["rzutów na odległość", "unieruchamiania odcinka szyjnego kręgosłupa", "holowania poszkodowanego"],
+        "correctAnswer": "holowania poszkodowanego"
+    },
+    {
+        "question": "Szczególna zaletą pasa ratunkowego jest",
+        "options": ["duża wyporność", "możliwość opasania tonącego i zabezpieczenie poprzez zapięcie klamry", "szybkość pływania"],
+        "correctAnswer": "holowania poszkodowanego"
+    },
+    {
+        "question": "Który sprzęt najbardziej ułatwia holowanie osób nieprzytomnych:",
+        "options": ["koło ratunkowe", "pas ratunkowy", "boja SP"],
+        "correctAnswer": "pas ratunkowy"
+    },
+    {
+        "question": "Żerdź to inaczej:",
+        "options": ["tyczka", "część wyposażenia kajaka", "przyrząd do mocowania chorągiewek na pływalni"],
+        "correctAnswer": "tyczka"
+    },
+    {
+        "question": "Do podręcznego sprzętu ratunkowego zaliczamy:",
+        "options": ["łódź wiosłową", "kajak ratowniczy", "rzutkę rękawową"],
+        "correctAnswer": "rzutkę rękawową"
+    },
+    {
+        "question": "Wadą rzutki rękawowej jest:",
+        "options": ["mała wyporność", "odblaskowy kolor", "mały zasobnik"],
+        "correctAnswer": "mała wyporność"
+    },
+    {
+        "question": "Rzutka ratunkowa służy do:",
+        "options": ["Sygnalizacji pozostałych ratowników", "podania tonącemu, który jest nieprzytomny", "podania tonącemu, który jest przytomny"],
+        "correctAnswer": "podania tonącemu, który jest przytomny"
+    },
+    {
+        "question": "Skuteczność rzutek ratunkowych zależy głównie od:",
+        "options": ["długości linki,", "masy ciała osoby poszkodowanej,", "celności pierwszego rzutu."],
+        "correctAnswer": "celności pierwszego rzutu."
+    },
+    {
+        "question": "Zaletą rzutki siatkowej (piłkowej) jest:",
+        "options": ["mała wyporność,", "dowolność w wykonywaniu techniki rzutu,", "wyporność pozwalająca utrzymać poszkodowanego."],
+        "correctAnswer": "wyporność pozwalająca utrzymać poszkodowanego."
+    },
+    {
+        "question": "Minimalna długość liny asekuracyjnej wynosi:",
+        "options": ["50 metrów", " 100 metrów", "80 metrów"],
+        "correctAnswer": "80 metrów"
+    },
+    {
+        "question": "Lina asekuracyjna musi być",
+        "options": ["z dodatkowymi chorągiewkami na całej jej długości", "nie starsza niż jeden sezon", "nietonąca"],
+        "correctAnswer": "nietonąca"
+    },
+    {
+        "question": "Lina asekuracyjna z szelkami w zasobniku służy do:",
+        "options": ["skrępowania agresywnie zachowującego się poszkodowanego", "zabezpieczenia ratownika podczas akcji ratowniczej", "ściągnięcia sprzętu pływającego z wody w kierunku brzegu"],
+        "correctAnswer": "zabezpieczenia ratownika podczas akcji ratowniczej"
+    },
+    {
+        "question": "Lina asekuracyjna na kołowrocie, szarpnięta może się splątać, aby tego uniknąć:",
+        "options": ["ratownik na szelkach biegnie powoli,", "jednej ratownik ręka kontroluje tempo obracania się bębna,", "lina na kołowrotku nie może się zaplątać."],
+        "correctAnswer": "jednej ratownik ręka kontroluje tempo obracania się bębna,"
+    },
+    {
+        "question": "Przy akcjach ratunkowych poza kąpieliskiem na większą odległość (np. 300 m) celowe staje się użycie:",
+        "options": ["łodzi wiosłowej", "bojki SP", "kołowrotu"],
+        "correctAnswer": "łodzi wiosłowej"
+    },
+    {
+        "question": "Podejmowanie tonącego do łodzi wiosłowej odbywa się:",
+        "options": ["z burty nawietrznej", "z dziobu", "z rufy"],
+        "correctAnswer": "z rufy"
+    },
+    {
+        "question": "Ruchomy element łączący wiosło z łodzią nazywany jest:",
+        "options": ["kausza", "ucho", "dulka"],
+        "correctAnswer": "dulka"
+    },
+    {
+        "question": "Ratownik posługując się łodzią wiosłową przy użyciu dwóch wioseł najczęściej:",
+        "options": ["siedzi przodem do kierunku ruchu", "siedzi tyłem do rufy", "siedzi tyłem do dziobu"],
+        "correctAnswer": "siedzi tyłem do dziobu"
+    },
+    {
+        "question": "Piórkowanie to:",
+        "options": ["sposób wiosłowania jednym wiosłem z rufy,", "naprzemienny sposób wiosłowania,", "sposób pracy nóg w płetwach w pływaniu pod wodą."],
+        "correctAnswer": "sposób wiosłowania jednym wiosłem z rufy,"
+    },
+    {
+        "question": "Pracę wiosłem „na śrubkę” inaczej nazywamy:",
+        "options": ["pagajowaniem,", "piórkowaniem,", "flisowaniem."],
+        "correctAnswer": "piórkowaniem,"
+    },
+    {
+        "question": "Cześć wiosła, która zanurzana jest w wodzie podczas wiosłowania to:",
+        "options": ["pióro", "trzon", "nasada"],
+        "correctAnswer": "pióro,"
+    },
+    {
+        "question": "Osobę tonącą za pomocą kajaka można ratować:",
+        "options": ["podpływając burtą i podając tonącemu wiosło", "dopływając rufą", "dopływając dziobem"],
+        "correctAnswer": "dopływając dziobem"
+    },
+    {
+        "question": "Wchodząc na łódź wiosłową robimy to od strony:",
+        "options": ["Dziobu", "Rufy", "Burty"],
+        "correctAnswer": "Rufy"
+    },
+    {
+        "question": "Deska ortopedyczna służy do:",
+        "options": ["ewakuacji poszkodowanych z urazem kręgosłupa", "ciągnięcia za skuterem", "unieruchamiania złamanych kości długich np.: nóg"],
+        "correctAnswer": "ewakuacji poszkodowanych z urazem kręgosłupa"
+    },
+    {
+        "question": "W skład standardowego wyposażenia deski ortopedycznej wchodzi:",
+        "options": ["stabilizator głowy, pasy", "deska", "wszystkie odpowiedzi są prawidłowe"],
+        "correctAnswer": "wszystkie odpowiedzi są prawidłowe"
+    },
+    {
+        "question": "Burta łodzi motorowej to:",
+        "options": ["ściana w części dziobowej łodzi", "ściana tylna w łodz", "ściana boczna łodzi"],
+        "correctAnswer": "ściana boczna łodzi"
+    },
+    {
+        "question": "Cumy służą do",
+        "options": ["obracania silnikiem poprzez kierownicę,", "połączenia statku z budowlą wodną, brzegiem lub innym statkiem,", "podnoszenia i opuszczania bandery."],
+        "correctAnswer": "połączenia statku z budowlą wodną, brzegiem lub innym statkiem,"
+    },
+    {
+        "question": "Różnica pomiędzy kamizelką ratunkową, a kamizelką asekuracyjną to:",
+        "options": ["nie ma różnicy pomiędzy tymi kamizelkami", "kamizelka ratunkowa zapewnia pływalność tylko przez około 5 h, przy kamizelce asekuracyjnej nie ma takiego ograniczenia", "kamizelka ratunkowa zapewnia utrzymanie twarzy człowieka ponad powierzchnią wody, a kamizelka asekuracyjna tego nie gwarantuje i tylko pomaga utrzymać się na wodzie"],
+        "correctAnswer": "kamizelka ratunkowa zapewnia utrzymanie twarzy człowieka ponad powierzchnią wody, a kamizelka asekuracyjna tego nie gwarantuje i tylko pomaga utrzymać się na wodzie"
+    },
+    {
+        "question": "W przypadku wywrotki łodzi żaglowej lub motorowej w pierwszej kolejności należy:",
+        "options": ["Ratować odpływający niezbędny osprzęt np.: wiosło;", "Przeliczyć członków załogi oraz założyć środki ratunkowe;", "Starać się jak najszybciej obrócić jednostek żaglową do normalnej pozycji."],
+        "correctAnswer": "ściana boczna łodzi"
+    },
+    {
+        "question": "Po wywróceniu się łodzi w pierwszej kolejności ratownik powinien",
+        "options": ["sprawdzić stan załogi łodz", "zabezpieczyć jednostkę przed zalaniem wodą", "zabezpieczyć cały osprzęt (kapoki, koła, wiosła itp.)"],
+        "correctAnswer": "sprawdzić stan załogi łodz"
+    },
+    {
+        "question": "Na łodzi motorowej i żaglowej środków ratunkowych z godnie z przepisami powinno być:",
+        "options": ["Przynajmniej po jednej sztuce dla każdego nieumiejącego pływać członka załogi;,", "Po jednej sztuce dla każdego członka załogi;", "Ilość środków ratunkowych określa sternik/kapitan jednostki pływające ponieważ to on bierze odpowiedzialność za bezpieczeństwo załogi."],
+        "correctAnswer": "Po jednej sztuce dla każdego członka załogi;"
+    },
+    {
+        "question": "Po wywrotce jachtu należy przede wszystkim:",
+        "options": ["ratować rzeczy osobiste załog", "sprawdzić czy wszyscy członkowie załogi są na powierzchni", "zabezpieczyć dokumenty jachtu"],
+        "correctAnswer": "sprawdzić czy wszyscy członkowie załogi są na powierzchni"
+    },
+    {
+        "question": "Minimalna liczba ratowników wodnych zapewniających stała kontrole wyznaczonych obszarów wodnych określa:",
+        "options": ["WOPR podczas przeprowadzanego audytu,", "zarządzający w porozumieniu z zatrudnianym ratownikiem wodnym,", "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 23 stycznia 2012 r. w sprawie minimalnych wymagań dotyczących liczby ratowników wodnych."],
+        "correctAnswer": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 23 stycznia 2012 r. w sprawie minimalnych wymagań dotyczących liczby ratowników wodnych."
+    },
+    {
+        "question": "Minimalna liczba ratowników wodnych zapewniających stała kontrole wyznaczonych obszarów wodnych określa",
+        "options": ["WOPR podczas przeprowadzanego audytu,", "ROZPORZĄDZENIE RADY MINISTRÓW nr 358 z dnia 6 maja 1997 r. w sprawie określenia warunków bezpieczeństwa osób przebywających w górach, pływających, kąpiących się i uprawiających sporty wodne.", "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 23 stycznia 2012 r. w sprawie minimalnych wymagań dotyczących liczby ratowników wodnych."],
+        "correctAnswer": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 23 stycznia 2012 r. w sprawie minimalnych wymagań dotyczących liczby ratowników wodnych."
+    },
+    {
+        "question": "Minimalna liczba ratowników wodnych zapewniająca stała kontrole na pływalni z nieckami o długości do 25 m to: ",
+        "options": ["1 ratownik,", "2 ratowników", "3 ratowników"],
+        "correctAnswer": "1 ratownik,"
+    },
+    {
+        "question": "Minimalna liczba ratowników wodnych zapewniająca stała kontrole na pływalni z nieckami o długości 25-50 m to: ",
+        "options": ["2 ratowników,", "4 ratowników", "3 ratowników"],
+        "correctAnswer": "2 ratowników,"
+    },
+    {
+        "question": "Minimalna liczba ratowników wodnych zapewniająca stała kontrole na pływalni z nieckami o długości powyżej 50m to: ",
+        "options": ["2 ratowników,", "4 ratowników", "3 ratowników"],
+        "correctAnswer": "3 ratowników"
+    },
+    {
+        "question": "Minimalna ilość ratowników wodnych zapewniających stała kontrolę na kąpielisku śródlądowym:",
+        "options": ["na każde 100 m linii brzegowej dwóch ratowników wodnych,", "na każde 100 m linii brzegowej jeden ratownik wodny od strony lądu i jeden ratownik wodny od strony lustra wody,", "na każde 50 m linii brzegowej  jeden ratownik wodny od strony lądu i jeden ratownik wodny od strony lustra wody."],
+        "correctAnswer": "na każde 100 m linii brzegowej  jeden ratownik wodny od strony lądu i jeden ratownik wodny od strony lustra wody."
+    },
+    {
+        "question": "Minimalna ilość ratowników wodnych zapewniających stała kontrolę na kąpielisku nadmorskim:",
+        "options": ["na każde 100 m linii brzegowej dwóch ratowników wodnych;", "na każde 100 m linii brzegowej trzyosobowe zespoły ratowników wodnych, w tym co najmniej jeden ratownik wodny od strony lustra wody,", "na każde 50 m linii brzegowej jeden ratownik wodny od strony lądu i jeden ratownik wodny od strony lustra wody;"],
+        "correctAnswer": "a każde 100 m linii brzegowej trzyosobowe zespoły ratowników wodnych, w tym co najmniej jeden ratownik wodny od strony lustra wody,"
+    },
+    {
+        "question": "Minimalna ilość ratowników wodnych zapewniających stała kontrolę w miejscu okazjonalnie przeznaczonym do kąpieli:",
+        "options": ["na każde 100 m linii brzegowej dwóch ratowników wodnych;", "na każde 100 m linii brzegowej trzyosobowe zespoły ratowników wodnych, w tym co najmniej jeden ratownik wodny od strony lustra wody,", "dwóch ratowników, nie określono długości linii brzegowe"],
+        "correctAnswer": "dwóch ratowników, nie określono długości linii brzegowe"
+    },
+    {
+        "question": "Minimalna ilość ratowników wodnych zapewniających stała kontrolę w innych obiektach dysponujące nieckami basenowymi o łącznej powierzchni poniżej 100 m2 i głębokości poniżej 1,2 m w najgłębszym miejscu:",
+        "options": ["nie ma obowiązku zatrudniania ratowników", "jeden ratownik wodny", "jeden ratownik wodny na każde 25 m linii brzegowej"],
+        "correctAnswer": "nie ma obowiązku zatrudniania ratowników"
+    },
+    {
+        "question": "Tzw. „scyzoryk” to:",
+        "options": ["sposób holowania,", "sposób zanurzania się pod wodę,", "sposób holowania osoby niebezpiecznej."],
+        "correctAnswer": "sposób zanurzania się pod wodę,"
+    },
+    {
+        "question": "Osobę zmęczoną holuje się zespołowo bez sprzętu sposobem: ",
+        "options": ["jednorącz za żuchwę lub oburącz za żuchwę", "tzw. „most” lub „samolot”", "żeglarskim."],
+        "correctAnswer": "tzw. „most” lub „samolot”"
+    },
+    {
+        "question": "Pozorowane akcje ratunkowe mają na celu:",
+        "options": ["propagowanie bezpiecznej kąpieli", "trening ratowników", "wszystkie odpowiedzi są poprawne."],
+        "correctAnswer": "wszystkie odpowiedzi są poprawne."
+    },
+    {
+        "question": "Najwolniejszym stylem pływackim jest:",
+        "options": ["klasyczny,", "kraul,", "grzbietowy."],
+        "correctAnswer": "klasyczny,"
+    },
+    {
+        "question": "Najszybszym stylem pływackim jest:",
+        "options": ["klasyczny,", "kraul,", "grzbietowy."],
+        "correctAnswer": "kraul,"
+    },
+    {
+        "question": "Dokończ zdanie:,, Pływając kraulem ratowniczym głowa ratownika...”: ",
+        "options": ["znajduje się pod wodą,", "znajduje się nad wodą", "zwrócona jest mocno w bok."],
+        "correctAnswer": "znajduje się nad wodą"
+    },
+    {
+        "question": "Tzw. „scyzoryk” to sposób:",
+        "options": ["obezwładniania tonącego agresywnego i holowania", "zanurzania się pod wodę", "szybkiego rozwijania liny"],
+        "correctAnswer": "zanurzania się pod wodę"
+    },
+    {
+        "question": "Cechą czynności w żabce ratowniczej jest:",
+        "options": ["utrzymanie głowy podczas płynięcia nad powierzchnią wody", "utrzymanie głowy podczas płynięcia nad powierzchnią wody", "mocna praca nóg do stylu klasycznego"],
+        "correctAnswer": "utrzymanie głowy podczas płynięcia nad powierzchnią wody"
+    },
+    {
+        "question": "Przy penetracji dna w strefie dla umiejących pływać należy:",
+        "options": ["wykorzystać sprzęt ABC (maska, fajka, płetwy),", "zabezpieczyć liną asekuracyjną przeszukującego ratownika,", "wszystkie odpowiedzi są prawidłowe."],
+        "correctAnswer": "wszystkie odpowiedzi są prawidłowe."
+    },
+    {
+        "question": "Cechą czynności w skoku ratowniczym wykrocznym jest:",
+        "options": ["utrzymanie głowy na powierzchni wody", "skok z długim poślizgiem pod wodą", "skok połączony z głębokim nurkowaniem po tonącego"],
+        "correctAnswer": "utrzymanie głowy na powierzchni wody"
+    },
+    {
+        "question": "Skacząc do nieznanej wody wybierzesz skok:",
+        "options": ["na głowę, ale wykonany bardzo płytko", "na lekko ugięte nogi z zasłoniętą twarzą,", "na tak zwaną „deskę”"],
+        "correctAnswer": "na lekko ugięte nogi z zasłoniętą twarzą,"
+    },
+    {
+        "question": "Jedyną akcją, w której ratownik zmuszony jest do kontaktu bezpośredniego, jest udzielanie pomocy osobie:",
+        "options": ["zmęczonej,", "spanikowanej,", "nieprzytomnej."],
+        "correctAnswer": "nieprzytomnej."
+    },
+    {
+        "question": "W sytuacji przypadkowego uchwytu ratownika przez tonącego należy:",
+        "options": ["przytopić - wówczas osoba agresywna rozluźni uchwyt", "odeprzeć atak pięścią lub łokciem trafiając atakującego w „czułe miejsce”", "ratownik sam całkowicie zanurza się pod wodę."],
+        "correctAnswer": "ratownik sam całkowicie zanurza się pod wodę."
+    },
+    {
+        "question": "Schodząc w głąb do nieznanej wody, należy zanurzać się: ",
+        "options": ["NN w dół,", "głową w dół,", "sposób zanurzania nie ma znaczenia dla bezpieczeństwa nurka."],
+        "correctAnswer": "NN w dół,"
+    },
+    {
+        "question": "„Człowiek - żaba” to:",
+        "options": ["akcja ratownicza stosowana na wodach górskich,", "akcja ratownicza na wodzie szybko płynącej, gdzie do jej przeprowadzenia niezbędna jest lina asekuracyjna,", "program ekologiczny uruchomiony przez WOPR z funduszy Ministerstwa Ochrony Środowiska."],
+        "correctAnswer": "akcja ratownicza na wodzie szybko płynącej, gdzie do jej przeprowadzenia niezbędna jest lina asekuracyjna,"
+    },
+    {
+        "question": "Węzeł prosty służy do:",
+        "options": ["holowania osoby", "łączenia dwóch lin", "przycumowania łódki do pomostu"],
+        "correctAnswer": "łączenia dwóch lin"
+    },
+    {
+        "question": "Węzeł płaski służy do:",
+        "options": ["holowania osoby", "łączenia dwóch lin o tej samej grubości", "przycumowania łódki do pomostu"],
+        "correctAnswer": "łączenia dwóch lin"
+    },
+    {
+        "question": "Węzeł ratowniczy to:",
+        "options": ["sposób klarowania bojki SP", "sposób klarowania pasa ratowniczego,", "niezaciskająca się pętla wiązana na sobie."],
+        "correctAnswer": "łączenia dwóch lin"
+    },
+    {
+        "question": "Węzeł służący do cumowania łodzi to:",
+        "options": ["cumowy żeglarski,", "buchta,", "płaski zabezpieczony."],
+        "correctAnswer": "cumowy żeglarski,"
+    },
+    {
+        "question": "Klar sprzętu to:",
+        "options": ["układanie, porządkowanie", "ćwiczenia ze sprzętem", "podsiadanie wiedzy o danym sprzęcie ratunkowym"],
+        "correctAnswer": "układanie, porządkowanie"
+    },
+    {
+        "question": "Układanie bądź zwijanie liny nazywamy:",
+        "options": ["trymowaniem", "buchtowaniem,", "knagowaniem."],
+        "correctAnswer": "buchtowaniem"
+    },
+    {
+        "question": "Zaletą buchtowania liny do zasobników linowych jest:",
+        "options": ["łatwość wykonania buchty, małe ryzyko splątania liny,", "mokra lina w zasobniku szybko schnie,", "łatwość utrzymania czystości liny"],
+        "correctAnswer": "łatwość wykonania buchty, małe ryzyko splątania liny,"
+    },
+    {
+        "question": "Zaletą buchtowania liny do zasobników linowych jest:",
+        "options": ["łatwość wykonania buchty, małe ryzyko splątania liny,", "mokra lina w zasobniku szybko schnie,", "łatwość utrzymania czystości liny"],
+        "correctAnswer": "łatwość wykonania buchty, małe ryzyko splątania liny,"
+    },
+    {
+        "question": "Prace bosmańskie to prace:",
+        "options": ["wykonywane przez bosmana,", "konserwacyjno-naprawcze sprzętu,", "związane z organizacją kąpieliska zorganizowanego."],
+        "correctAnswer": "konserwacyjno-naprawcze sprzętu,"
+    },
+    {
+        "question": "Jakim węzłem cumujemy łodzie:",
+        "options": ["Cumowy prosty,", "Cumowy Żeglarski,", "Cumowy szotowy."],
+        "correctAnswer": "Cumowy Żeglarski,"
+    },
+    {
+        "question": "Knaga to:",
+        "options": ["Element służący do wiązania", "Wąskie przejście w porcie,", "Sytuacja bez wyjścia."],
+        "correctAnswer": "Element służący do wiązania"
+    },
+    {
+        "question": "Cumulonimbus jest chmurą zwiastującą:",
+        "options": ["słabe wiatry", "silne opady deszczu", "dobra pogodę"],
+        "correctAnswer": "Element służący do wiązania"
+    },
+    {
+        "question": "Wiatr o sile 8°B określany jest w komunikatach meteorologicznych jako:",
+        "options": ["bardzo silny wiatr", "sztorm", "huragan"],
+        "correctAnswer": "sztorm"
+    },
+    {
+        "question": "Wiatr o sile 8°B określany jest w komunikatach meteorologicznych jako:",
+        "options": ["bardzo silny wiatr", "sztorm", "huragan"],
+        "correctAnswer": "sztorm"
+    },
+    {
+        "question": "Gwałtowny spadek ciśnienia zapowiada:",
+        "options": ["poprawę pogody", "zwiększenie siły wiatru", "silne nasłonecznienia"],
+        "correctAnswer": "zwiększenie siły wiatru"
+    },
+    {
+        "question": "Meteorologia to nauka o:",
+        "options": ["faunie", "atmosferze ziemskie", "meteorytach"],
+        "correctAnswer": "atmosferze ziemskie"
+    },
+    {
+        "question": "Gwałtowną burzę połączoną z silną ulewą i nagłymi szkwałami porywistego wiatru zapowiada chmura:",
+        "options": ["nimbostratus", "cirrus", "cumulonimbus"],
+        "correctAnswer": "cumulonimbus"
+    },
+    {
+        "question": "Ciśnienie atmosferyczne mierzymy za pomocą:",
+        "options": ["barometru", "aneroidu", "wiatromierza"],
+        "correctAnswer": "barometru"
+    },
+    {
+        "question": "Gwałtowny wzrost siły wiatru często określany jest pojęciem:",
+        "options": ["sztilu", "szkwału", "szału"],
+        "correctAnswer": "szkwału"
+    },
+    {
+        "question": "Bryza nocna powstaje w wyniku:",
+        "options": ["tworzenia się lokalnego niżu nad lądem", "szybszego stygnięcia lądu niż wody", "oddziaływania księżyca"],
+        "correctAnswer": "szybszego stygnięcia lądu niż wody"
+    },
+    {
+        "question": "Bryza dzienna wieje od wody w kierunku lądu, ponieważ:",
+        "options": ["ląd ogrzewa się szybciej niż woda", "nad lądem następuje lokalny wzrost ciśnienia", "woda ogrzewa się szybciej niż ląd"],
+        "correctAnswer": "szybszego stygnięcia lądu niż wody"
+    },
+    {
+        "question": "Zawiesina bardzo małych kropelek wody w przyziemnej warstwie powietrza, powodujących ograniczenie widzialności poniżej 1 km to:",
+        "options": ["wilgotność powietrza", "rosa", "mgła"],
+        "correctAnswer": "mgła"
+    },
+    {
+        "question": "Nadejście Cumulonimbusa zwiastuje:",
+        "options": ["lekkich podmuchów wiatru z kierunku północnego", "pojawienie się nisko latających jaskółek", "nagłe zgaśnięcie wiatru i pojawienie się wzmagającego wiatru z zupełnie przeciwnego kierunku niż dotychczas"],
+        "correctAnswer": "mgła"
+    },
+    {
+        "question": "Woda przewodzi ciepło szybciej niż powietrze około",
+        "options": ["8 razy", "28 razy", "44 razy"],
+        "correctAnswer": "28 razy"
+    },
+    {
+        "question": "Hydrologia to nauka o:",
+        "options": [" budowie urządzeń nad akwenami", "budowie chmur", "ciekach wodnych"],
+        "correctAnswer": "ciekach wodnych"
+    },
+    {
+        "question": "Pojawiająca się „bryza dzienna” dotyczy:",
+        "options": ["sposobu falowania morza", "przypływów i odpływów,", "ruchów powietrza."],
+        "correctAnswer": "ruchów powietrza."
+    },
+    {
+        "question": "Pojawiająca się „bryza dzienna” to ruch powietrza w kierunku:",
+        "options": ["Do brzegu,", "Od brzegu", "Wzdłuż brzegu."],
+        "correctAnswer": "Do brzegu,"
+    },
+    {
+        "question": "Pojawiająca się „bryza nocna” to ruch powietrza w kierunku:",
+        "options": ["Do brzegu,", "Od brzegu do wody,", "Wzdłuż brzegu."],
+        "correctAnswer": "Od brzegu do wody,"
+    },
+    {
+        "question": "Chmura burzowa to:",
+        "options": ["Stratus", "Cirrus", "Cumulonimbus"],
+        "correctAnswer": "Cumulonimbus"
+    },
+    {
+        "question": "Siła wiatru w skali Beauforta posiada:",
+        "options": ["13 stopni od 0 do 12,", "12 stopni od 1 do 12,", "10 stopni od 0 do 9."],
+        "correctAnswer": "13 stopni od 0 do 12,"
+    },
+    {
+        "question": "Rewa to:",
+        "options": ["rów podwodny występujący w strefie przyboju,", "wał podwodny występujący w strefie przyboju,", "wał i rów występujący w strefie przyboju."],
+        "correctAnswer": "wał podwodny występujący w strefie przyboju,"
+    },
+    {
+        "question": "Zjawisko rewy i rowu spowodowane jest głównie przez:",
+        "options": ["falowanie morza i prądy denne", "pływy morskie,", "budowle hydrotechniczne."],
+        "correctAnswer": "falowanie morza i prądy denne"
+    },
+    {
+        "question": "W bezpośredniej bliskości prostopadle usytuowanej w stosunku do brzegu morskiego ostrogi, na skutek działania prądu dennego głębokość wody:",
+        "options": ["zmniejsza się,", "zwiększa się,", "nie zmienia się, a jedynie utrwala."],
+        "correctAnswer": "zwiększa się,"
+    },
+    {
+        "question": "Prąd rozrywający (wsteczny):",
+        "options": ["jest charakterystyczny dla morskich obszarów wodnych", "występuje u ujścia rzek do morza", "jest charakterystyczny na wodach szybko płynących"],
+        "correctAnswer": "jest charakterystyczny dla morskich obszarów wodnych"
+    },
+    {
+        "question": "Powstawanie silnych prądów wstecznych nie zależy od:",
+        "options": ["temperatury wody,", "kierunku wiatru", "wysokości fal"],
+        "correctAnswer": "temperatury wody,"
+    },
+    {
+        "question": "Prąd rozrywający (wsteczny) rozpoznasz po:",
+        "options": ["Wąski pas głębszej, ciemniejszej wody rozciągający się w stronę morza, z mniejszą ilością załamujących się fal,", "Występuje w miejscach gdzie jest najwięcej białych grzyw załamujących się fal,", "Nie ma możliwości zauważenie prądu wstecznego ponieważ jest przy samym dnie."],
+        "correctAnswer": "Wąski pas głębszej, ciemniejszej wody rozciągający się w stronę morza, z mniejszą ilością załamujących się fal,"
+    },
+    {
+        "question": "Piaszczysty, wydmowy brzeg dogodny dla lokalizacji kąpieliska nadmorskiego nazywa się:",
+        "options": ["wydmowy", "klifowy", "przymulisko"],
+        "correctAnswer": "wydmowy"
+    },
+    {
+        "question": "Odwój na rzece to",
+        "options": ["inaczej walec wodny tworzący się za progiem", "występujący na górskiej rzece niezwykle silny nurt,", "inaczej cofka, czyli miejsce, gdzie woda znacznie zwalnia lub płynie w kierunku przeciwnym do głównego nurtu."],
+        "correctAnswer": "inaczej walec wodny tworzący się za progiem"
+    },
+    {
+        "question": "Do budowli hydrotechnicznych możemy zliczyć:",
+        "options": ["przykosę", "ploso", "jaz i falochron"],
+        "correctAnswer": "jaz i falochron"
+    },
+    {
+        "question": "Charakterystycznymi, naturalnymi elementami budowy rzeki są:",
+        "options": ["łożysko i ostroga", "ławica i ploso", "opaska i jaz"],
+        "correctAnswer": "ławica i ploso"
+    },
+    {
+        "question": "Elementami regulującymi bieg rzeki są:",
+        "options": ["falochron", "ostroga i tama", "starorzecze"],
+        "correctAnswer": "ostroga i tama"
+    },
+    {
+        "question": "Głębia na rzece nosi nazwę:",
+        "options": ["przymuliska", "obsypiska", "plosa"],
+        "correctAnswer": "plosa"
+    },
+    {
+        "question": "„Przykosa” to:",
+        "options": ["naturalna przeszkoda powstała z naniesionego pisaku,", "ostry zakręt rzeki z wartkim nurtem,", "miejsce ujścia rzeki do większego cieku naturalnego."],
+        "correctAnswer": "naturalna przeszkoda powstała z naniesionego pisaku,"
+    },
+    {
+        "question": "Analizując prędkość nurtu rzeki w przekroju poprzecznym:",
+        "options": ["największą prędkość można odczytać przy dnie koryta", "większą prędkość stwierdzamy przy powierzchni,", "zależy od termokliny i warstw wody."],
+        "correctAnswer": "większą prędkość stwierdzamy przy powierzchni,"
+    },
+    {
+        "question": "Termoklina to:",
+        "options": ["Obszar, gdzie rzeka wpływa do morza, powodując zmniejszenie gęstości wody morskie", "miejsce w toni wodnej, gdzie z niewielkim przyrostem głębokości, gwałtownie obniża się temperatura wody", "przybrzeżna strefa jeziora."],
+        "correctAnswer": "miejsce w toni wodnej, gdzie z niewielkim przyrostem głębokości, gwałtownie obniża się temperatura wody"
+    },
+    {
+        "question": "Szkwał jest to:",
+        "options": ["łagodny podmuch wiatru", "nagły, krótkotrwały i znaczny wzrost prędkości wiatru, wraz ze zmianą jego kierunku", "wiatr lokalny"],
+        "correctAnswer": "nagły, krótkotrwały i znaczny wzrost prędkości wiatru, wraz ze zmianą jego kierunku"
+    },
+    {
+        "question": "Liczba ludzi, która utonęła w roku 2012 według raportu Międzynarodowa Organizacja zdrowia WHO to:",
+        "options": ["42 tysięcy,", "120 tysięcy,", "372 tysiące osób rocznie."],
+        "correctAnswer": "372 tysiące osób rocznie."
+    },
+    {
+        "question": "Utoniecie (według danych WHO) jako przyczyna śmierci:",
+        "options": ["jest trzecim na świecie wiodącym zabójcą na skutek niezamierzonych obrażeń,", "jest 23 przyczyną śmierci w skutek niezamierzonych obrażeń,", "Jest marginalna przyczyną śmierci, istotną tylko dla osób uprawiających sporty wodne."],
+        "correctAnswer": "jest trzecim na świecie wiodącym zabójcą na skutek niezamierzonych obrażeń,"
+    },
+    {
+        "question": "Utoniecie (według danych WHO) jako przyczyna śmierci:",
+        "options": ["jest trzecim na świecie wiodącym zabójcą na skutek niezamierzonych obrażeń,", "jest jedną z 10 głównych przyczyn śmierci dzieci i młodzieży w każdym regionie świata,", "obydwie odpowiedzi są prawidłowe."],
+        "correctAnswer": "obydwie odpowiedzi są prawidłowe."
+    },
+    {
+        "question": "W Polsce w roku 2022 według danych policji utonęło:",
+        "options": [" 56,", "419,", "5231."],
+        "correctAnswer": "419,"
+    },
+    {
+        "question": "W Polsce w roku 2022 według danych policji utonęło:",
+        "options": [" 56,", "419,", "5231."],
+        "correctAnswer": "419,"
+    },
+    {
+        "question": "Wstrząs termiczny ma miejsce, gdy:",
+        "options": ["gwałtownie zmieniamy pozycję z niskiej na wysoką /mroczki przed oczami/,", "dochodzi do gwałtownej zmiany środowisk o znacznych różnicach temperatur,", "ma miejsce zmiana gęstości środowiska, w którym przebywa ciało"],
+        "correctAnswer": "dochodzi do gwałtownej zmiany środowisk o znacznych różnicach temperatur,"
+    },
+    {
+        "question": "Przechłodzeniu organizmu sprzyjają:",
+        "options": ["środki nasenne, lekarstwa, środki uspokajające, alkohol", "silny wiatr, bezruch, przemęczenie", "wszystkie powyżej podane czynniki."],
+        "correctAnswer": "wszystkie powyżej podane czynniki."
+    },
+    {
+        "question": "Najczęstszą przyczyną urazów kręgosłupa są:",
+        "options": ["nieodpowiedzialne zabawy na jednostkach pływających,", "skoki do wody nieznanej,", " kąpiel bez opieki dorosłych i w miejscach niestrzeżonych."],
+        "correctAnswer": "skoki do wody nieznanej,"
+    },
+    {
+        "question": "Potocznie określane „uśnięcie pod wodą” ma związek z:",
+        "options": ["przemęczeniem organizmu,", "hiperwentylacją,", "wstrząsem termicznym.."],
+        "correctAnswer": "hiperwentylacją,"
+    },
+    {
+        "question": "Typowy proces tonięcia trwa (do zatrzymania akcji serca):",
+        "options": ["Od 3-6 minut", "30 sekund", "6-20 minut"],
+        "correctAnswer": "Od 3-6 minut"
+    },
+    {
+        "question": "Typowy proces tonięcia trwa (do zatrzymania akcji serca):",
+        "options": ["Od 3-6 minut", "30 sekund", "6-20 minut"],
+        "correctAnswer": "Od 3-6 minut"
+    },
+    {
+        "question": "Po wyniesieniu osoby ratowanej na brzeg wylewanie wody z płuc jest:",
+        "options": ["bezcelowe i nieskuteczne", "podstawowym działaniem każdego ratownika,", "zasadne wśród osób przytomnych."],
+        "correctAnswer": "bezcelowe i nieskuteczne"
+    },
+    {
+        "question": "Tzw. „oddech życia” to”",
+        "options": ["podanie powietrza tonącemu nieprzytomnemu, bezpośrednio po wydobyciu na powierzchnię wody oraz w trakcie holowania,", "pierwszy samodzielny oddech tonącego po skutecznej resuscytacji", "wdech nabierany przed dłuższym nurkowaniem"],
+        "correctAnswer": "podanie powietrza tonącemu nieprzytomnemu, bezpośrednio po wydobyciu na powierzchnię wody oraz w trakcie holowania,"
+    },
+    {
+        "question": "w RKO po tonięciu, stosunek oddechów do ucisków ratowniczych dla dorosłych to:",
+        "options": ["30 ucisków do 2 oddechów", "Najpierw 5 oddechów potem 30 uciśnięć do 2 oddechów", "Najpierw 2 oddechy następnie 30 uciśnięć do 2 oddechów"],
+        "correctAnswer": "bezcelowe i nieskuteczne"
+    },
+    {
+        "question": "Tzw. „utonięcie wtórne” to:",
+        "options": ["Utonięcie ratownika przytopionego przez tonącego,", "Opadanie na dno zwłok,", "Powikłania wynikające z obecności wody w płucach, szczególnie brudnej."],
+        "correctAnswer": "Powikłania wynikające z obecności wody w płucach, szczególnie brudnej."
+    },
+    {
+        "question": "Osobę, tonącą można rozpoznać po:",
+        "options": ["głośnym i wyraźnym nawoływaniu pomocy,", "Nieskoordynowanych ruchach pływackich, nie może nabrać powietrza, dla przypadkowego świadka sytuacja ta może wyglądać zupełnie niegroźnie", "czerwonym kolorze skóry."],
+        "correctAnswer": "Nieskoordynowanych ruchach pływackich, nie może nabrać powietrza, dla przypadkowego świadka sytuacja ta może wyglądać zupełnie niegroźnie"
+    },
+    {
+        "question": "W procesie tonięcia typowego można wyróżnić:",
+        "options": ["2 okresów", "5 okresów", "12 okresów"],
+        "correctAnswer": "5 okresów"
+    },
+    {
+        "question": "O Hipotermii mówimy już, gdy temperatura wewnętrza ciała spadnie poniżej:",
+        "options": ["28 stopni Celsjusza", "35 stopni Celsjusza", "18 stopni Celsjusza"],
+        "correctAnswer": "35 stopni Celsjusza"
+    },
+    {
+        "question": "W miarę obniżania temperatury wody, czas przeżycia człowieka w wodzie:",
+        "options": ["rośnie", "pozostaje bez zmian", "maleje"],
+        "correctAnswer": "maleje"
+    },
+    {
+        "question": "W miarę obniżania temperatury wody, czas przeżycia człowieka w wodzie:",
+        "options": ["rośnie", "pozostaje bez zmian", "maleje"],
+        "correctAnswer": "maleje"
+    },
+    {
+        "question": "Zjawisko polegające na nadmiernym wychłodzeniu organizmu nazywamy:",
+        "options": ["hipertermią", "hipotermią", "hipowitaminozą"],
+        "correctAnswer": "hipotermią"
+    },
+    {
+        "question": "W celu usunięcia bolesnego skurczu mieści należy:",
+        "options": ["zachować spokój i rozciągnąć mięsień objęty przykurczem", "podać aspirynę, która ma właściwości rozluźniające", "nie wolno ruszać kończyny, ponieważ grozi to zerwaniem ścięgien"],
+        "correctAnswer": "zachować spokój i rozciągnąć mięsień objęty przykurczem"
+    },
+    {
+        "question": "Gdy zostałeś porwany przez „prąd wsteczny”:",
+        "options": ["Jak najszybciej popłyń pod prąd w kierunku brzegu,", "Zanurkuj na dno prądu, gdzie jest najsłabszy i wracaj do brzegu przy dnie,", "Wydostań się z prądu wstecznego płynąc w bok a następnie do brzegu."],
+        "correctAnswer": "Wydostań się z prądu wstecznego płynąc w bok a następnie do brzegu."
+    },
+    {
+        "question": "Gdy zostałeś porwany przez „prąd wsteczny”(według najnowszych wytycznych ILS 2020r):",
+        "options": ["Nie płyń pod prąd!!!, zachowaj spokój, płyń z prądem rozrywającym i zobacz czy wróciłeś do płytkiej wody", "Nie płyń pod prąd!!!, zachowaj spokój, płyń przez prąd rozdzierający w kierunku rozbijających się fal, zobacz czy wróciłeś do płytkiej wody,", "Obydwie odpowiedzi się prawidłowe. Opisane wyżej strategie można stosować naprzemiennie."],
+        "correctAnswer": "Obydwie odpowiedzi się prawidłowe. Opisane wyżej strategie można stosować naprzemiennie."
+    },
+    {
+        "question": "W przypadku zapadnięcia nogi w miejscu bagnistym należy:",
+        "options": ["Stojąc, wyciągnąć nogę z miejsca bagnistego,", "położyć się płasko na wodzie, wyczołgać się na brzeg,", "żadna odpowiedz nie jest prawidłowa."],
+        "correctAnswer": "położyć się płasko na wodzie, wyczołgać się na brzeg,"
+    },
+    {
+        "question": "W przypadku zapadnięcia nogi w miejscu bagnistym należy:",
+        "options": ["Stojąc, wyciągnąć nogę z miejsca bagnistego,", "położyć się płasko na wodzie, wyczołgać się na brzeg,", "żadna odpowiedz nie jest prawidłowa."],
+        "correctAnswer": "położyć się płasko na wodzie, wyczołgać się na brzeg,"
+    },
+    {
+        "question": "Jeżeli wpłynąłeś w gęstą roślinność, wodorosty należy:",
+        "options": ["Jak najszybciej odpłynąć najlepiej stylem klasycznym,", "Odpłynąć najlepiej na plecach wykonując powolne ruchy,", "Zanurkować do dna."],
+        "correctAnswer": "Odpłynąć najlepiej na plecach wykonując powolne ruchy,"
+    },
+    {
+        "question": "W celu uniknięcia „wstrząsu termicznego” należy:",
+        "options": ["Wychodzić do wody powoli,", "Stopniowo schładzać powierzchnię skóry przed wejściem do wody np. ochlapać się wodą,", "Obydwie odpowiedzi się prawidłowe."],
+        "correctAnswer": "Obydwie odpowiedzi się prawidłowe."
+    },
+    {
+        "question": "Zapobiegamy wychłodzeniu ciała w wodzie stosując:",
+        "options": ["stroje ochronne tzw. „pianki”,", "pasy ratunkowe,", "kamizelki ratunkowe."],
+        "correctAnswer": "stroje ochronne tzw. „pianki”,"
+    },
+    {
+        "question": "W celu spowolnienia wychłodzenia orgazmami jako rozbitek łodzi, nie mając możliwości dopłynięcia do brzegu należy:",
+        "options": ["Nie zdejmować ubrań, przyjąć pozycję embrionalną, unikać zbędnych ruchów", "Zdjąć mokre ubranie, pływać intensywnie np.: kraulem, aby rozgrzać ciało,", "Jak najwolniej oddychać, przez oddech tracimy dużo ciepła."],
+        "correctAnswer": "Nie zdejmować ubrań, przyjąć pozycję embrionalną, unikać zbędnych ruchów"
+    },
+    {
+        "question": "Wypływając z wodorostów należy:",
+        "options": ["Odpłynąć spokojnie i powoli najlepiej na plecach,", "Jak najszybciej odpłynąć żabką", "Powyrywać wodorosty, jeżeli ograniczają ruchy."],
+        "correctAnswer": "Odpłynąć spokojnie i powoli najlepiej na plecach,"
+    },
+    {
+        "question": "Powtarzające się długie dźwięki na drodze śródlądowej oznaczają",
+        "options": ["człowiek za burtą", "wzywam pomocy", "niebezpieczeństwo zderzenia"],
+        "correctAnswer": "wzywam pomocy"
+    },
+    {
+        "question": "Powtarzające się długie dźwięki na drodze śródlądowej oznaczają",
+        "options": ["człowiek za burtą", "wzywam pomocy", "niebezpieczeństwo zderzenia"],
+        "correctAnswer": "wzywam pomocy"
+    },
+    {
+        "question": "Która grupa to sygnał SOS?",
+        "options": ["• • • - - - • • •", "- - - • • • - - -", "- - - • • - - -"],
+        "correctAnswer": "• • • - - - • • •"
+    },
+    {
+        "question": "Jednym z sygnałów wzywania pomocy jest:",
+        "options": ["znak w kształcie stożka skierowanego wierzchołkiem w górę", "czerwono biała flaga", "wystrzeliwanie czerwonych rakiet"],
+        "correctAnswer": "wystrzeliwanie czerwonych rakiet"
+    },
+    {
+        "question": "Odpowiedzialność służbową ratownik wodny ponosi przed:",
+        "options": ["państwowym organem sądowym, ", "pracodawcą,", "Komisją Dyscyplinarną WOPR."],
+        "correctAnswer": "pracodawcą,"
+    },
+    {
+        "question": "W ratownictwie karalne jest:",
+        "options": ["usiłowanie popełnienia przestępstwa, ", "podżeganie do przestępstwa,", "wszystkie powyższe odpowiedzi są prawdziwe."],
+        "correctAnswer": "wszystkie powyższe odpowiedzi są prawdziwe."
+    },
+    {
+        "question": "Zobowiązanie do naprawienia wyrządzonej szkody w czasie dyżuru ratownika reguluje:",
+        "options": ["kodeks handlowy ", "kodeks wykroczeń,", "kodeks cywilny."],
+        "correctAnswer": "kodeks cywilny."
+    },
+    {
+        "question": "Relacje pracownik pracodawca reguluje:",
+        "options": ["kodeks karny", "kodeks cywilny", "kodeks pracy"],
+        "correctAnswer": "kodeks pracy"
+    },
+    {
+        "question": "Do którego roku życia dziecka wymagana jest stała obserwacja wzrokowa opiekuna:",
+        "options": ["nie ma ograniczeń,", "do 7 roku życia,", "do 12 roku życia."],
+        "correctAnswer": "do 7 roku życia,"
+    },
+    {
+        "question": "Prowadzenie w ruchu wodnym kajaka w stanie po użyciu alkoholu zagrożone jest:",
+        "options": ["Nie ma przepisów regulujących taki zakaz, zakazane jest prowadzenie motorówek,", "Karą grzywny,", "Karą do trzech miesięcy ograniczenia wolności."],
+        "correctAnswer": "Karą grzywny,"
+    },
+    {
+        "question": "Prowadzenie w ruchu wodnym kajaka w stanie po użyciu alkoholu zagrożone jest:",
+        "options": ["Karą grzywny,", "Karą do trzech miesięcy ograniczenia wolności.", "Nie ma przepisów regulujących taki zakaz, zakazane jest tylko prowadzenie motorówek."],
+        "correctAnswer": "Karą grzywny,"
+    },
+    {
+        "question": "Kto, będąc w stanie po użyciu alkoholu nie opuszcza obszaru wodnego na polecenie ratownika wodnego (jako upoważniony przez zarządzającego obszarem wodnym) podlega karze:",
+        "options": ["Jeżeli nie zakłóca kąpieli innym, prawo nie przewiduje kary,", "Karze pozbawienia wolności do lat trzech,", "Karze grzywny"],
+        "correctAnswer": "Karze grzywny"
+    },
+    {
+        "question": "Nauka pływania może odbywać się w grupach o maksymalnej liczebności:",
+        "options": ["brak przepisów wykonawczych dotyczących ww. zagadnień", "do 10 uczniów na jednego prowadzącego", "do 15 uczniów na jednego prowadzącego"],
+        "correctAnswer": "brak przepisów wykonawczych dotyczących ww. zagadnień"
+    },
+    {
+        "question": "Wymagana obstawa przy organizacji maratonu pływackiego to:",
+        "options": ["ratownik i lekarz na łodzi motorowej, ratownik na łodzi wiosłowej po jednej na każdego uczestnika maratonu, dwóch płetwonurków, jeżeli głębokość wody przekracza 4 metry", "dwóch ratowników wodnych oraz lekarz", "brak przepisów wykonawczych dotyczących ww. zagadnień"],
+        "correctAnswer": "brak przepisów wykonawczych dotyczących ww. zagadnień"
+    },
+    {
+        "question": "Szkolenie na wodach otwartych wymaga zatrudnienia:",
+        "options": ["Ratownika wodnego oraz jednej łodzi wiosłowej na każde 5 osób szkolonych", "Brak przepisów wykonawczych dotyczących ww. zagadnień", "Jeden ratownik"],
+        "correctAnswer": "Brak przepisów wykonawczych dotyczących ww. zagadnień"
+    }
+  ]

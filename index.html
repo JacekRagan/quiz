@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz Start</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Ekran startowy -->
+  <div id="startMenu" class="start-screen">
+    <h1>Welcome to the Quiz</h1>
+    <button id="startQuizButton">Start Quiz</button>
+  </div>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const startQuizButton = document.getElementById("startQuizButton");
+
+      startQuizButton.addEventListener("click", () => {
+        // Przejście do drugiej strony
+        window.location.href = "quiz.html"; // Ustaw ścieżkę do strony quizu
+      });
+    });
+  </script>
+</body>
+</html>
