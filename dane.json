@@ -432,7 +432,7 @@
     {
         "question": "Szczególna zaletą pasa ratunkowego jest",
         "options": ["duża wyporność", "możliwość opasania tonącego i zabezpieczenie poprzez zapięcie klamry", "szybkość pływania"],
-        "correctAnswer": "holowania poszkodowanego"
+        "correctAnswer": "możliwość opasania tonącego i zabezpieczenie poprzez zapięcie klamry"
     },
     {
         "question": "Który sprzęt najbardziej ułatwia holowanie osób nieprzytomnych:",
@@ -561,8 +561,8 @@
     },
     {
         "question": "W przypadku wywrotki łodzi żaglowej lub motorowej w pierwszej kolejności należy:",
-        "options": ["Ratować odpływający niezbędny osprzęt np.: wiosło;", "Przeliczyć członków załogi oraz założyć środki ratunkowe;", "Starać się jak najszybciej obrócić jednostek żaglową do normalnej pozycji."],
-        "correctAnswer": "ściana boczna łodzi"
+        "options": ["Ratować odpływający niezbędny osprzęt np.: wiosło;", "Przeliczyć członków załogi oraz założyć środki ratunkowe", "Starać się jak najszybciej obrócić jednostek żaglową do normalnej pozycji."],
+        "correctAnswer": "Przeliczyć członków załogi oraz założyć środki ratunkowe"
     },
     {
         "question": "Po wywróceniu się łodzi w pierwszej kolejności ratownik powinien",
@@ -607,7 +607,7 @@
     {
         "question": "Minimalna ilość ratowników wodnych zapewniających stała kontrolę na kąpielisku śródlądowym:",
         "options": ["na każde 100 m linii brzegowej dwóch ratowników wodnych,", "na każde 100 m linii brzegowej jeden ratownik wodny od strony lądu i jeden ratownik wodny od strony lustra wody,", "na każde 50 m linii brzegowej  jeden ratownik wodny od strony lądu i jeden ratownik wodny od strony lustra wody."],
-        "correctAnswer": "na każde 100 m linii brzegowej  jeden ratownik wodny od strony lądu i jeden ratownik wodny od strony lustra wody."
+        "correctAnswer": "na każde 100 m linii brzegowej  jeden ratownik wodny od strony lądu i jeden ratownik wodny od strony lustra wody,"
     },
     {
         "question": "Minimalna ilość ratowników wodnych zapewniających stała kontrolę na kąpielisku nadmorskim:",
@@ -757,7 +757,7 @@
     {
         "question": "Cumulonimbus jest chmurą zwiastującą:",
         "options": ["słabe wiatry", "silne opady deszczu", "dobra pogodę"],
-        "correctAnswer": "Element służący do wiązania"
+        "correctAnswer": "silne opady deszczu"
     },
     {
         "question": "Wiatr o sile 8°B określany jest w komunikatach meteorologicznych jako:",
@@ -997,7 +997,7 @@
     {
         "question": "w RKO po tonięciu, stosunek oddechów do ucisków ratowniczych dla dorosłych to:",
         "options": ["30 ucisków do 2 oddechów", "Najpierw 5 oddechów potem 30 uciśnięć do 2 oddechów", "Najpierw 2 oddechy następnie 30 uciśnięć do 2 oddechów"],
-        "correctAnswer": "bezcelowe i nieskuteczne"
+        "correctAnswer": "30 ucisków do 2 oddechów"
     },
     {
         "question": "Tzw. „utonięcie wtórne” to:",
