@@ -152,7 +152,7 @@
     {
         "question": "wytyczanie strefy dla umiejących i nieumiejących pływać należy do ustawowych obowiązków:",
         "options": ["Nie zostało to określone w przepisach,", "Ratownika wodnego,", "Zarządzającego obszarem wodnym."],
-        "correctAnswer": "Zarządzającego obszarem wodnym"
+        "correctAnswer": "Zarządzającego obszarem wodnym."
     },
     {
         "question": "Do ustawowych obowiązków ratownika wodnego należy:",
@@ -177,7 +177,7 @@
     {
         "question": "Ratownik wodny prowadząc działania ratownicze może poświęcić w zakresie, w jakim jest to niezbędne do ratowania życia lub zdrowia osoby znajdującej się w stanie nagłego zagrożenia zdrowotnego:",
         "options": ["dobra osobiste innej osoby, inne niż życie,", "dobra osobiste innej osoby, inne niż życie lub zdrowie,", "dobra osobiste, ale tylko za zgodą poszkodowanego"],
-        "correctAnswer": "Tak, podczas prowadzenia działań ratowniczych."
+        "correctAnswer": "dobra osobiste innej osoby, inne niż życie lub zdrowie,"
     },
     {
         "question": "Szczegółowe zasady wywieszania flag sygnałowych określa:",
@@ -412,7 +412,7 @@
     {
         "question": "Bojka ratunkowa to:",
         "options": ["podręczny sprzęt ratunkowy,", "boja cumownicza", "inaczej zwana ,,podbierak”"],
-        "correctAnswer": "bojka „SP”, „Pamelka”"
+        "correctAnswer": "podręczny sprzęt ratunkowy,"
     },
     {
         "question": "Bojka ratunkowa służy do:",
@@ -522,7 +522,7 @@
     {
         "question": "Cześć wiosła, która zanurzana jest w wodzie podczas wiosłowania to:",
         "options": ["pióro", "trzon", "nasada"],
-        "correctAnswer": "pióro,"
+        "correctAnswer": "pióro"
     },
     {
         "question": "Osobę tonącą za pomocą kajaka można ratować:",
@@ -566,8 +566,8 @@
     },
     {
         "question": "Po wywróceniu się łodzi w pierwszej kolejności ratownik powinien",
-        "options": ["sprawdzić stan załogi łodz", "zabezpieczyć jednostkę przed zalaniem wodą", "zabezpieczyć cały osprzęt (kapoki, koła, wiosła itp.)"],
-        "correctAnswer": "sprawdzić stan załogi łodz"
+        "options": ["sprawdzić stan załogi łodzi", "zabezpieczyć jednostkę przed zalaniem wodą", "zabezpieczyć cały osprzęt (kapoki, koła, wiosła itp.)"],
+        "correctAnswer": "sprawdzić stan załogi łodzi"
     },
     {
         "question": "Na łodzi motorowej i żaglowej środków ratunkowych z godnie z przepisami powinno być:",
@@ -802,7 +802,7 @@
     {
         "question": "Bryza dzienna wieje od wody w kierunku lądu, ponieważ:",
         "options": ["ląd ogrzewa się szybciej niż woda", "nad lądem następuje lokalny wzrost ciśnienia", "woda ogrzewa się szybciej niż ląd"],
-        "correctAnswer": "szybszego stygnięcia lądu niż wody"
+        "correctAnswer": "ląd ogrzewa się szybciej niż woda"
     },
     {
         "question": "Zawiesina bardzo małych kropelek wody w przyziemnej warstwie powietrza, powodujących ograniczenie widzialności poniżej 1 km to:",
@@ -812,7 +812,7 @@
     {
         "question": "Nadejście Cumulonimbusa zwiastuje:",
         "options": ["lekkich podmuchów wiatru z kierunku północnego", "pojawienie się nisko latających jaskółek", "nagłe zgaśnięcie wiatru i pojawienie się wzmagającego wiatru z zupełnie przeciwnego kierunku niż dotychczas"],
-        "correctAnswer": "mgła"
+        "correctAnswer": "nagłe zgaśnięcie wiatru i pojawienie się wzmagającego wiatru z zupełnie przeciwnego kierunku niż dotychczas"
     },
     {
         "question": "Woda przewodzi ciepło szybciej niż powietrze około",
