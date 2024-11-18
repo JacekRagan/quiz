@@ -2,36 +2,45 @@
 <html lang="en">
 <head>
   <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-8Y280YE2HD"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-8Y280YE2HD"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-  gtag('config', 'G-8Y280YE2HD');
-</script>
+    gtag('config', 'G-8Y280YE2HD');
+  </script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta
   name="description"
   content="Egzamin teoretyczny na ratownika wodnego WOPR , który przygotuje ciebie na teorie w formie quizu. ">
-  <title>Quiz Start</title>
+  <title>Teoria ratownik wodny</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <!-- Ekran startowy -->
   <div id="startMenu" class="start-screen">
-    <h1>Welcome to the Quiz</h1>
-    <button id="startQuizButton">Start Quiz</button>
+    <h1>Witaj w Quizie teoretycznym <br> na ratownika wodnego</h1>
+    <div class="button-container">
+      <button id="startQuizButton">Zacznij Quiz</button>
+      <button id="infoButton"><a href="info.html">Infomacje</a></button>
+    </div>
   </div>
 
   <script>
     document.addEventListener("DOMContentLoaded", () => {
       const startQuizButton = document.getElementById("startQuizButton");
+      const infoButton = document.getElementById("infoButton");
 
       startQuizButton.addEventListener("click", () => {
-        // Przejście do drugiej strony
+        // Przejście do strony quizu
         window.location.href = "quiz.html"; // Ustaw ścieżkę do strony quizu
+      });
+
+      infoButton.addEventListener("click", () => {
+        // Przejście do strony informacji
+        window.location.href = "info.html"; // Ustaw ścieżkę do strony z informacjami
       });
     });
   </script>
