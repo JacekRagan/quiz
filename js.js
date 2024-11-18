@@ -79,9 +79,15 @@ document.addEventListener("DOMContentLoaded", () => {
           <p>Twój wynik: ${score} / ${maxQuestions}</p>
           <p>Procent: ${percentage}%</p>
           <p class="${passed ? 'pass' : 'fail'}">${passed ? "Zdałeś egzamin 🎉" : "Nie zdałeś egzaminu 😢"}</p>
+          <button id="restartButton">Zacznij od nowa</button>
         `;
+        document.getElementById("restartButton").addEventListener("click", () => {
+          currentQuestionIndex = 0;
+          score = 0;
+          resultContainer.innerHTML = ""; // Wyczyść wyniki
+          displayQuestion(currentQuestionIndex); // Rozpocznij quiz od nowa
+        });
       }
-
       // Rozpocznij quiz od pierwszego pytania
       displayQuestion(currentQuestionIndex);
     })
