@@ -69,4 +69,11 @@ body {
     color: red;
     font-weight: bold;
   }
-  
+.znak{
+      max-width: 250px;
+      max-height:250px;
+  }
+  .znak img{
+      max-width: 250px;
+      max-height:250px;
+  }
