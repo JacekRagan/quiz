@@ -242,7 +242,7 @@
     {
         "question": "Który z warunków wywieszania czerwonej flagi podany jest nieprawidłowo:",
         "options": ["temperatura wody wynosi poniżej 18oC,", "widoczność jest ograniczona do 50 m,", "szybkość wiatru przekracza 5 stopni w skali Beauforta."],
-        "correctAnswer": "temperatura wody wynosi poniżej 18oC."
+        "correctAnswer": "temperatura wody wynosi poniżej 18oC,"
     },
     {
         "question": "Który z warunków wywieszania czerwonej flagi podany jest nieprawidłowo:",
