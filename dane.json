@@ -707,7 +707,7 @@
     {
         "question": "Węzeł płaski służy do:",
         "options": ["holowania osoby", "łączenia dwóch lin o tej samej grubości", "przycumowania łódki do pomostu"],
-        "correctAnswer": "łączenia dwóch lin"
+        "correctAnswer": "łączenia dwóch lin o tej samej grubości"
     },
     {
         "question": "Węzeł ratowniczy to:",
