@@ -1,49 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-8Y280YE2HD"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-8Y280YE2HD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-    gtag('config', 'G-8Y280YE2HD');
-  </script>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Przygotuj się do egzaminu teoretycznego na ratownika wodnego WOPR! Sprawdź swoją wiedzę w formie quizu i zdobądź pewność przed testem.">
-  <meta name="keywords" content="quiz na ratownika wodnego, przygotowanie do egzaminu WOPR, egzamin teoretyczny ratownik wodny, pytania z egzaminu WOPR, test ratownik wodny, teoria WOPR, kurs na ratownika wodnego, quiz przygotowujący do egzaminu WOPR, pytania egzaminacyjne WOPR, test wiedzy ratownik wodny, przygotowanie do egzaminu ratowniczego, zagadnienia teoretyczne ratownik wodny, materiały edukacyjne WOPR, symulacja egzaminu ratownika wodnego, przykładowe pytania na ratownika wodnego, teoria i praktyka egzamin WOPR, ćwiczenia do egzaminu na ratownika, ratownictwo wodne pytania zamknięte, test online ratownictwo wodne, przygotowanie do kursu ratownictwa wodnego, sprawdzian wiedzy na ratownika, zasady ratownictwa wodnego WOPR, quiz z przepisów ratowniczych">
-  <title>Teoria ratownik wodny</title>
-  <link rel="stylesheet" href="style.css">
+  gtag('config', 'G-8Y280YE2HD');
+</script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5500973958059303"
+     crossorigin="anonymous"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Przygotuj się do egzaminu teoretycznego na ratownika wodnego WOPR! Sprawdź swoją wiedzę w formie quizu i zdobądź pewność przed testem.">
+    <meta name="keywords" content="quiz na ratownika wodnego, przygotowanie do egzaminu WOPR, egzamin teoretyczny ratownik wodny, pytania z egzaminu WOPR, test ratownik wodny, teoria WOPR, kurs na ratownika wodnego, quiz przygotowujący do egzaminu WOPR, pytania egzaminacyjne WOPR, test wiedzy ratownik wodny, przygotowanie do egzaminu ratowniczego, zagadnienia teoretyczne ratownik wodny, materiały edukacyjne WOPR, symulacja egzaminu ratownika wodnego, przykładowe pytania na ratownika wodnego, teoria i praktyka egzamin WOPR, ćwiczenia do egzaminu na ratownika, ratownictwo wodne pytania zamknięte, test online ratownictwo wodne, przygotowanie do kursu ratownictwa wodnego, sprawdzian wiedzy na ratownika, zasady ratownictwa wodnego WOPR, quiz z przepisów ratowniczych">
+    <link rel="stylesheet" href="style4.css">
+    <title>Quiz teoria ratownik wodny</title>
 </head>
 <body>
-  <!-- Ekran startowy -->
-  <div id="startMenu" class="start-screen">
-    <h1>Witaj w Quizie teoretycznym <br> na ratownika wodnego</h1>
-    <div class="button-container">
-      <button id="startQuizButton">Zacznij Quiz</button>
-      <button id="infoButton"><a href="info.html">Infomacje</a></button>
+    <div id="start">
+        <h1>Witaj w Quizie teoretycznym <br> na ratownika wodnego</h1>
+        <div class="przyciski">
+            <button id="startquiz" onclick="zacznij()">Zacznij quiz</button>
+            <button id="info" onclick="info()">Informacje</button>
+        </div>
     </div>
-  </div>
-
-  <script>
-    document.addEventListener("DOMContentLoaded", () => {
-      const startQuizButton = document.getElementById("startQuizButton");
-      const infoButton = document.getElementById("infoButton");
-
-      startQuizButton.addEventListener("click", () => {
-        // Przejście do strony quizu
-        window.location.href = "quiz.html"; // Ustaw ścieżkę do strony quizu
-      });
-
-      infoButton.addEventListener("click", () => {
-        // Przejście do strony informacji
-        window.location.href = "info.html"; // Ustaw ścieżkę do strony z informacjami
-      });
-    });
-  </script>
+    <div id="informacje">
+        <h1>Skąd brane są pytania do quizu? Czy rzeczywiście te pytania pojawią się na egzaminie teoretycznym? <h1>
+        <h3>Pytania zostały przepisane z strony WOPRU i są jako pytania do egzaminu teorytycznego <a href="https://www.kursy-wopr.pl/do%20pobrania/testratownikwodny.pdf">link</a></h3>
+        <button id="back" onclick="ukryjinfo()">Powrót</button>
+    </div>
+    <div id="quiz">
+        <div class="tresc">
+            <h4 class="nrpytania"></h4>
+            <h3 class="pytanie"></h3>
+        </div>
+        <div class="odpowiedzi">
+            <button class="option"></button>
+            <button class="option"></button>
+            <button class="option"></button>
+        </div>
+         <button id="backquiz" onclick="ukryjquiz()">Powrot do menu</button>
+    </div>
+    <script src="main.js"></script>
 </body>
 </html>
-
-
