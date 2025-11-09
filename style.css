@@ -55,7 +55,7 @@ body{
     transition: all 0.3s ease;
 }
 
-#startquiz:active , #info:active , #back:active, #back:active{
+#startquiz:active , #info:active , #back:active, #backquiz:active{
   transform: scale(1);
   box-shadow: inset 0 2px 5px rgba(0, 0, 0, 0.2);
 }
@@ -150,4 +150,5 @@ body{
 .option:hover {
   background-color: #e0f0ff;
 }
+
 
