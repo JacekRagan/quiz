@@ -1,6 +1,7 @@
 const startmenu = document.getElementById("start"); // Startowe menu
 const infomenu  = document.getElementById("informacje"); // Menu informacji
 const quizmenu = document.getElementById("quiz"); // menu quizowe
+const onas = document.getElementById("aboutmenu"); // menu o nas
 quizmenu.style.display = "none"
 
 let currentQuestionIndex = 0;
@@ -8,6 +9,14 @@ let score = 0;
 let questions = [];
 let randomIndices = [];
 
+function about(){
+  startmenu.style.display = "none"
+  onas.style.display = "block"
+}
+function ukryjabout(){
+  onas.style.display = "none"
+  startmenu.style.display = "block"
+}
 function informacja(){
     startmenu.style.display = "none"
 }
