@@ -2,6 +2,7 @@ const startmenu = document.getElementById("start"); // Startowe menu
 const infomenu  = document.getElementById("informacje"); // Menu informacji
 const quizmenu = document.getElementById("quiz"); // menu quizowe
 const onas = document.getElementById("aboutmenu"); // menu o nas
+const profil = document.getElementById("profilmenu"); // historia egzaminow
 quizmenu.style.display = "none"
 
 let currentQuestionIndex = 0;
@@ -42,7 +43,17 @@ function ukryjquiz(){
     quizmenu.style.display = "none"
     startmenu.style.display = "block"
 }
-
+function profile(){
+  startmenu.style.display = "none"
+  quizmenu.style.display = "none"
+  profil.style.display = "block"
+  const historia = JSON.parse(localStorage.getItem("historiaEgzaminow")) || [];
+  console.log(historia);
+}
+function ukryjprofile(){
+  profil.style.display = "none"
+  startmenu.style.display = "block"
+}
 document.addEventListener("DOMContentLoaded", () => {
   const quizContainer = document.getElementById("quiz");
   const questionContainer = quizContainer.querySelector(".tresc");
@@ -151,20 +162,37 @@ document.addEventListener("DOMContentLoaded", () => {
     }, 1000);
   }
 
-  // Wynik końcowy
-  function showFinalScore() {
-    const percentage = Math.round((score / randomIndices.length) * 100);
-    const passed = percentage >= 80;
-    questionContainer.innerHTML = `
+function showFinalScore() {
+  const percentage = Math.round((score / randomIndices.length) * 100);
+  const passed = percentage >= 80;
+
+  // przygotowanie danych do localStorage
+  const egzamin = {
+    data: new Date().toLocaleString(),
+    wynik: `${score} / ${randomIndices.length}`,
+    procent: percentage,
+    status: passed ? "Pozytywny" : "Negatywny"
+  };
+
+  let historia = JSON.parse(localStorage.getItem("historiaEgzaminow")) || [];
+  historia.push(egzamin);
+  localStorage.setItem("historiaEgzaminow", JSON.stringify(historia));
+
+  // wyświetlenie wyniku w stylizowanej karcie
+  questionContainer.innerHTML = `
+    <div class="wynik-card ${passed ? 'pass' : 'fail'}">
       <h2>Egzamin zakończony</h2>
-      <p>Twój wynik: ${score} / ${randomIndices.length}</p>
-      <p>Procent: ${percentage}%</p>
-      <p class="${passed ? 'pass' : 'fail'}">${passed ? "Zdałeś egzamin 🎉" : "Nie zdałeś egzaminu 😢"}</p>
+      <p><strong>Twój wynik:</strong> ${score} / ${randomIndices.length}</p>
+      <p><strong>Procent:</strong> ${percentage}%</p>
+      <p class="status">${passed ? "Zdałeś egzamin 🎉" : "Nie zdałeś egzaminu 😢"}</p>
       <button id="restartButton" class="option">Zacznij od nowa</button>
-    `;
-    answersContainer.innerHTML = "";
-    document.getElementById("restartButton").addEventListener("click", window.startQuiz);
-  }
+    </div>
+  `;
+  answersContainer.innerHTML = "";
+  document.getElementById("restartButton").addEventListener("click", window.startQuiz);
+}
+
+
 
   // Reset quizu po kliknięciu "Powrót do menu"
   backToMenuButton.addEventListener("click", () => {
@@ -181,3 +209,29 @@ document.addEventListener("DOMContentLoaded", () => {
     startmenu.style.display = "block";
   });
 });
+function pokazHistorie() {
+  const historia = JSON.parse(localStorage.getItem("historiaEgzaminow")) || [];
+  const container = document.getElementById("historiaContainer");
+
+  if (historia.length === 0) {
+    container.innerHTML = "<p>Brak zapisanych egzaminów.</p>";
+    return;
+  }
+
+  let html = "";
+  historia.forEach(e => {
+    // kolor zależny od wyniku
+    const kolor = e.status === "Pozytywny" ? "green" : "red";
+
+    html += `
+      <div style="margin-bottom: 8px; font-size: 16px;">
+        📅 ${e.data} — Wynik: ${e.wynik} — ${e.procent}% — 
+        <span style="color: ${kolor}; font-weight: bold;">
+          ${e.status}
+        </span>
+      </div>
+    `;
+  });
+
+  container.innerHTML = html;
+}
