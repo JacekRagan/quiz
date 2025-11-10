@@ -12,7 +12,7 @@ body {
   background-position: center;
 }
 
-#start, #informacje, #aboutmenu, #quiz {
+#start, #informacje, #aboutmenu, #quiz , #profilmenu {
   width: 90%;
   max-width: 600px;
   background: rgba(255, 255, 255, 1);
@@ -61,6 +61,54 @@ body {
 #about {
   font-size: 1.5em;
 }
+.wynik-card {
+  background-color: #fff;
+  border-radius: 12px;
+  padding: 30px 20px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+  text-align: center;
+  max-width: 500px;
+  margin: 20px auto;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.wynik-card h2 {
+  color: #FFA500;
+  margin-bottom: 20px;
+}
+
+.wynik-card p {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.wynik-card .status {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.wynik-card.pass .status {
+  color: green;
+}
+
+.wynik-card.fail .status {
+  color: red;
+}
+
+.wynik-card .option {
+  margin-top: 20px;
+  padding: 12px 25px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.wynik-card .option:hover {
+  background-color: #e0f0ff;
+}
 
 #startquiz,
 #info,
@@ -86,7 +134,7 @@ body {
 }
 
 #informacje,
-#aboutmenu {
+#aboutmenu , #profilmenu {
   display: none;
   text-align: center;
   background: rgba(255, 255, 255, 1);
@@ -175,7 +223,33 @@ body {
   border-bottom: 1px black solid;
   margin-bottom: 10px;
 }
-
+#profilbutton{
+  position: absolute;
+  top: 40px;
+  right: 40px;
+  width: 150px;
+}
+.profil{
+  width: 100%;
+  height: 30px;
+  background-color: #f9f9f9;
+  border: 1px solid grey;
+  color: #0056b3;
+  font-size: 15px;
+  letter-spacing: 1px;
+  font-weight:600;
+  border-radius: 5px;
+}
+.profil:hover{
+  border: none;
+  background-color: #0056b3;
+  color: #fff;
+  transform: scale(1.1);
+}
+.profil:active{
+  transform: scale(1);
+  box-shadow: inset 0 2px 5px rgba(0, 0, 0, 0.2);
+}
 /* ------------------ RESPONSYWNOŚĆ ------------------ */
 
 @media (max-width: 768px) {
