@@ -44,6 +44,7 @@ function ukryjquiz(){
     startmenu.style.display = "block"
 }
 function profile(){
+  infomenu.style.display = "none"
   startmenu.style.display = "none"
   quizmenu.style.display = "none"
   profil.style.display = "block"
@@ -235,3 +236,4 @@ function pokazHistorie() {
 
   container.innerHTML = html;
 }
+
