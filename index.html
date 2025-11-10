@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pl">
+<html lang="en">
 
 <head>
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-8Y280YE2HD"></script>
@@ -14,15 +14,24 @@
         crossorigin="anonymous"></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
         content="Przygotuj się do egzaminu teoretycznego na ratownika wodnego WOPR! Sprawdź swoją wiedzę w formie quizu i zdobądź pewność przed testem.">
     <meta name="keywords"
-        content="quiz na ratownika wodnego, Witaj w Quizie teoretycznym na ratownika wodnego, przygotowanie do egzaminu WOPR, egzamin teoretyczny ratownik wodny, pytania z egzaminu WOPR, test ratownik wodny, teoria WOPR, kurs na ratownika wodnego, quiz przygotowujący do egzaminu WOPR, pytania egzaminacyjne WOPR, test wiedzy ratownik wodny, przygotowanie do egzaminu ratowniczego, zagadnienia teoretyczne ratownik wodny, materiały edukacyjne WOPR, symulacja egzaminu ratownika wodnego, przykładowe pytania na ratownika wodnego, teoria i praktyka egzamin WOPR, ćwiczenia do egzaminu na ratownika, ratownictwo wodne pytania zamknięte, test online ratownictwo wodne, przygotowanie do kursu ratownictwa wodnego, sprawdzian wiedzy na ratownika, zasady ratownictwa wodnego WOPR, quiz z przepisów ratowniczych">
+        content="quiz na ratownika wodnego, przygotowanie do egzaminu WOPR, egzamin teoretyczny ratownik wodny, pytania z egzaminu WOPR, test ratownik wodny, teoria WOPR, kurs na ratownika wodnego, quiz przygotowujący do egzaminu WOPR, pytania egzaminacyjne WOPR, test wiedzy ratownik wodny, przygotowanie do egzaminu ratowniczego, zagadnienia teoretyczne ratownik wodny, materiały edukacyjne WOPR, symulacja egzaminu ratownika wodnego, przykładowe pytania na ratownika wodnego, teoria i praktyka egzamin WOPR, ćwiczenia do egzaminu na ratownika, ratownictwo wodne pytania zamknięte, test online ratownictwo wodne, przygotowanie do kursu ratownictwa wodnego, sprawdzian wiedzy na ratownika, zasady ratownictwa wodnego WOPR, quiz z przepisów ratowniczych">
     <link rel="stylesheet" href="style.css">
-    <title>Quiz teorytyczny na ratownika wodnego</title>
+    <title>Quiz teoria ratownik wodny</title>
 </head>
 
 <body>
+    <div id="profilbutton">
+        <button onclick="profile(); pokazHistorie();" class="profil">Profil</button>
+    </div>
+    <div id="profilmenu">
+        <h2>Historia twoich egzaminów</h2>
+        <div id="historiaContainer"></div>
+        <button onclick="ukryjprofile()" id="back">powrót</button>
+    </div>
     <div id="start">
         <h1>Witaj w Quizie teoretycznym <br> na ratownika wodnego</h1>
         <div class="przyciski">
@@ -45,14 +54,11 @@
         </div>
         <div class="block">
             <h2>🛟 Jak wygląda egzamin na ratownika wodnego?</h2>
-
             <p>Egzamin na <strong>ratownika wodnego WOPR</strong> to końcowy etap szkolenia, który sprawdza zarówno
                 Twoją <strong>wiedzę teoretyczną</strong>, jak i <strong>umiejętności praktyczne</strong>. Po jego
                 pozytywnym zaliczeniu uzyskujesz uprawnienia potwierdzające, że jesteś gotowy do pracy w charakterze
                 ratownika wodnego — osoby odpowiedzialnej za życie i bezpieczeństwo innych.</p>
-
             <h2>📘 Część teoretyczna</h2>
-
             <p>W tej części egzaminu oceniana jest Twoja wiedza z zakresu:</p>
             <ul>
                 <ol>zasad <strong>pierwszej pomocy</strong> i <strong>resuscytacji krążeniowo-oddechowej</strong>,</ol>
@@ -60,19 +66,14 @@
                 <ol><strong>przepisów i zasad bezpieczeństwa</strong> obowiązujących na kąpieliskach i pływalniach,</ol>
                 <ol>oznaczeń flag, sygnałów i sposobów reagowania w sytuacjach zagrożenia.</ol>
             </ul>
-
             <p>Egzamin teoretyczny ma formę <strong>testu jednokrotnego wyboru</strong> — najczęściej składa się z
                 <strong>30–40 pytań</strong>. Aby uzyskać wynik pozytywny, należy odpowiedzieć poprawnie na co najmniej
                 <strong>75%</strong> z nich.</p>
-
             <p>Na stronie znajdziesz quizy oparte na faktycznych pytaniach egzaminacyjnych, dzięki którym możesz
                 skutecznie przygotować się do tego etapu.</p>
-
             <h2>🏊‍♂️ Część praktyczna</h2>
-
             <p>Część praktyczna sprawdza Twoje umiejętności w wodzie. Składa się z kilku zadań wykonywanych pod okiem
                 egzaminatora. Poniżej przedstawiono aktualny zakres ćwiczeń:</p>
-
             <ol>
                 <ol><strong>Przepłynięcie 400 m</strong> sposobem dowolnym po skoku startowym — w czasie nie dłuższym
                     niż <strong>8 minut</strong>.</ol>
@@ -91,9 +92,7 @@
                     na pokład łodzi oraz ułożenie go w pozycji umożliwiającej udzielenie <strong>kwalifikowanej
                         pierwszej pomocy (KPP)</strong>.</ol>
             </ol>
-
             <h2>🩹 Jak się przygotować?</h2>
-
             <p>Aby dobrze zdać egzamin, warto:</p>
             <ul>
                 <ol>regularnie trenować pływanie różnymi stylami,</ol>
@@ -121,7 +120,3 @@
 </body>
 
 </html>
-
-
-
-
