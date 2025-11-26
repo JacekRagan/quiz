@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>O nas - Ratownik Wodny Egzamin</title>
+    <style>
+        #onas-content {
+            max-width: 1000px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+
+        .hero-section {
+            background: linear-gradient(135deg, #2563eb 0%, #0891b2 100%);
+            color: white;
+            padding: 60px 40px;
+            border-radius: 16px;
+            margin-bottom: 40px;
+            text-align: center;
+            box-shadow: 0 10px 40px rgba(37, 99, 235, 0.2);
+        }
+
+        .hero-section h1 {
+            font-size: 48px;
+            margin-bottom: 20px;
+            font-weight: 700;
+        }
+
+        .hero-section p {
+            font-size: 18px;
+            opacity: 0.95;
+            line-height: 1.6;
+        }
+
+        .content-section {
+            background: white;
+            border-radius: 12px;
+            padding: 40px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+            border-left: 5px solid #2563eb;
+        }
+
+        .content-section h2 {
+            color: #0b3d57;
+            font-size: 28px;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .content-section h2::before {
+            content: '';
+            display: inline-block;
+            width: 6px;
+            height: 6px;
+            background: #2563eb;
+            border-radius: 50%;
+        }
+
+        .content-section p {
+            color: #444;
+            font-size: 16px;
+            line-height: 1.8;
+            margin-bottom: 15px;
+        }
+
+        .content-section p:last-child {
+            margin-bottom: 0;
+        }
+
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-top: 30px;
+        }
+
+        .feature-card {
+            background: linear-gradient(135deg, #f0f9ff 0%, #f0fdf4 100%);
+            padding: 25px;
+            border-radius: 10px;
+            border-left: 4px solid #10b981;
+            text-align: center;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .feature-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(16, 185, 129, 0.15);
+        }
+
+        .feature-icon {
+            font-size: 40px;
+            margin-bottom: 12px;
+        }
+
+        .feature-card h3 {
+            color: #0b3d57;
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+
+        .feature-card p {
+            color: #666;
+            font-size: 14px;
+            margin: 0;
+        }
+
+        .highlight {
+            background: linear-gradient(120deg, #fef3c7 0%, #fcd34d 100%);
+            padding: 30px;
+            border-radius: 10px;
+            margin-top: 30px;
+            border-left: 5px solid #f59e0b;
+        }
+
+        .highlight h3 {
+            color: #b45309;
+            margin-bottom: 15px;
+            font-size: 20px;
+        }
+
+        .highlight p {
+            color: #7c2d12;
+            line-height: 1.8;
+            margin: 0;
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-top: 30px;
+        }
+
+        .stat-box {
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            text-align: center;
+            border-top: 4px solid #2563eb;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+        }
+
+        .stat-number {
+            font-size: 36px;
+            font-weight: bold;
+            color: #2563eb;
+            margin-bottom: 8px;
+        }
+
+        .stat-label {
+            color: #666;
+            font-size: 14px;
+        }
+
+        .cta-section {
+            background: linear-gradient(135deg, #0b3d57 0%, #0f766e 100%);
+            color: white;
+            padding: 50px 40px;
+            border-radius: 16px;
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .cta-section h2 {
+            color: white;
+            margin-bottom: 20px;
+            font-size: 32px;
+            margin-top: 0;
+        }
+
+        .cta-section p {
+            color: rgba(255, 255, 255, 0.9);
+            font-size: 18px;
+            margin-bottom: 30px;
+            line-height: 1.6;
+        }
+
+        .cta-button {
+            display: inline-block;
+            background: #10b981;
+            color: white;
+            padding: 14px 40px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: all 0.3s;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        .cta-button:hover {
+            background: #059669;
+            transform: scale(1.05);
+            box-shadow: 0 8px 25px rgba(16, 185, 129, 0.3);
+        }
+
+        @media (max-width: 768px) {
+            .hero-section {
+                padding: 40px 25px;
+            }
+
+            .hero-section h1 {
+                font-size: 32px;
+            }
+
+            .content-section {
+                padding: 25px;
+            }
+
+            .content-section h2 {
+                font-size: 22px;
+            }
+
+            #onas-content {
+                margin: 20px auto;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="header">
+        <div class="left">
+            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-waves h-8 w-8 text-blue-600"><path d="M2 6c.6.5 1.2 1 2.5 1C7 7 7 5 9.5 5c2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1"></path><path d="M2 12c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1"></path><path d="M2 18c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1"></path></svg>
+            <h2>Ratownikwodnyegzamin.xyz</h2>
+        </div>
+        <div class="right">
+            <div class="link"><a href="index.html"><p class="menu">Blog</p></a></div>
+            <div class="link"><a href="szkolenie.html"><p class="menu">Szkolenie</p></a></div>
+            <div class="link"><a href="quiz.html"><p class="menu">Quiz</p></a></div>
+            <div class="link"><a href="onas.html"><p class="menu">O nas</p></a></div>
+            <div class="link"><a href="polityka.html"><p class="menu">Kontakt</p></a></div>
+        </div>
+    </div>
+
+    <div id="onas-content">
+        <!-- Hero Section -->
+        <div class="hero-section">
+            <h1>🌊 O nas</h1>
+            <p>Witamy na RatownikWodnyEgzamin.xyz - miejsce, gdzie przygotowanie do egzaminu na ratownika wodnego staje się proste i efektywne!</p>
+        </div>
+
+        <!-- Misja -->
+        <div class="content-section">
+            <h2>Nasza Misja</h2>
+            <p>
+                Nasza strona powstała z myślą o wszystkich osobach przygotowujących się do egzaminu na ratownika wodnego. Wiemy, jak wymagający może być ten proces, dlatego stworzyliśmy miejsce, w którym znajdziesz rzetelne materiały edukacyjne, poradniki i przykładowe pytania egzaminacyjne.
+            </p>
+            <p>
+                Naszym celem jest wsparcie kandydatów w zdobywaniu wiedzy i pewności siebie przed egzaminem, tak aby każdy mógł bezpiecznie i skutecznie przygotować się do testu.
+            </p>
+        </div>
+
+        <!-- Oświadczenie -->
+        <div class="highlight">
+            <h3>⚖️ Ważne Oświadczenie</h3>
+            <p>
+                <strong>Nie jesteśmy oficjalną jednostką WOPR</strong>, działamy w celach edukacyjnych. Wszystkie publikowane przez nas treści są oparte na aktualnych przepisach, wytycznych i doświadczeniu w dziedzinie ratownictwa wodnego. Chcemy, aby każdy użytkownik miał dostęp do wiedzy, która zwiększa bezpieczeństwo nad wodą i pozwala świadomie wykonywać zawód ratownika.
+            </p>
+        </div>
+
+        <!-- Co oferujemy -->
+        <div class="content-section">
+            <h2>Co Oferujemy?</h2>
+            <div class="features">
+                <div class="feature-card">
+                    <div class="feature-icon">📚</div>
+                    <h3>Materiały Teoretyczne</h3>
+                    <p>Kompletne omówienie zagadnień egzaminacyjnych</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">❓</div>
+                    <h3>Przykładowe Pytania</h3>
+                    <p>Setki pytań z egzaminów poprzednich lat</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🎯</div>
+                    <h3>Quiz Interaktywny</h3>
+                    <p>Treninguj wiedzę w praktyce z bieżącą statystyką</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">💡</div>
+                    <h3>Porady i Wskazówki</h3>
+                    <p>Praktyczne tips od doświadczonych ratowników</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">📊</div>
+                    <h3>Monitorowanie Postępów</h3>
+                    <p>Śledź swoje wyniki i postępy w nauce</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🚀</div>
+                    <h3>Efektywne Przygotowanie</h3>
+                    <p>Oszczędź czas i naucz się mądrze</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Quiz Info -->
+        <div class="content-section">
+            <h2>Nasz Quiz Teoretyczny</h2>
+            <p>
+                Przygotowaliśmy interaktywny quiz teoretyczny, który umożliwia sprawdzenie swojej wiedzy w praktyce. Quiz losuje 30 pytań i pozwala ocenić procent poprawnych odpowiedzi.
+            </p>
+            <div class="stats">
+                <div class="stat-box">
+                    <div class="stat-number">30</div>
+                    <div class="stat-label">Pytań na egzamin</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-number">80%</div>
+                    <div class="stat-label">Wymagane do zdania</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-number">♾️</div>
+                    <div class="stat-label">Możliwości treningów</div>
+                </div>
+            </div>
+            <p style="margin-top: 20px;">
+                <strong>Aby zdać egzamin, trzeba uzyskać co najmniej 80%.</strong> Dzięki temu możesz samodzielnie trenować, obserwować postępy i lepiej przygotować się do oficjalnego egzaminu. Każdy quiz zapisuje Twoje wyniki, więc możesz monitorować swoje postępy!
+            </p>
+        </div>
+
+        <!-- CTA Section -->
+        <div class="cta-section">
+            <h2>🎓 Gotów do Wyzwania?</h2>
+            <p>
+                Zapraszamy do korzystania z naszego serwisu i życzymy sukcesów w nauce oraz powodzenia na egzaminie! Dzięki nam przygotowanie do egzaminu może być łatwiejsze, bardziej efektywne i przyjemne.
+            </p>
+            <button class="cta-button" onclick="window.location.href='quiz.html'">
+                🎯 Przejdź do Quizu
+            </button>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="footer-container">
+            <div class="footer-section">
+                <h3>RatownikWodnyEgzamin.xyz</h3>
+                <p>Materiały edukacyjne, poradniki i wskazówki do egzaminu na ratownika wodnego.</p>
+                <a href="polityka.html">Kontakt</a>
+                <a href="polityka.html">Polityka prywatności</a>
+            </div>
+
+            <div class="footer-section">
+                <h4>Informacje</h4>
+                <p>Nie jesteśmy oficjalną jednostką WOPR. Strona ma charakter edukacyjny.</p>
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            <p>© 2025 RatownikWodnyEgzamin.xyz Wszystkie prawa zastrzeżone.</p>
+        </div>
+    </footer>
+</body>
+</html>
