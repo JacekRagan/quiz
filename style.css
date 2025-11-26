@@ -257,24 +257,25 @@ svg {
 }
 
 /* ===== ZBIORNIK / KARTY ===== */
+/* Karty w rzędzie na desktopie */
 .zbiornik {
-    width: 100%;
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
     justify-content: center;
 }
 
+
 .card {
-    text-align: center;
-    flex: 1 1 300px;
-    min-width: 200px;
+    flex: 1 1 300px; 
     max-width: 400px;
-    border: solid 1px #0b3d57;
+    min-width: 200px;
+    text-align: center;
+    border: 1px solid #0b3d57;
     border-radius: 10px;
     padding: 10px;
-    box-sizing: border-box;
     background-color: white;
+    box-sizing: border-box;
 }
 
 .top {
@@ -316,7 +317,13 @@ svg {
     max-width: 600px;
     padding: 0 20px;
 }
-
+#quizContainer2 {
+    display: flex;
+    flex-wrap: wrap; /* pozwala zawijać karty jeśli zabraknie miejsca */
+    justify-content: center; /* centrowanie w poziomie */
+    gap: 20px;
+    padding: 20px;
+}
 #quizResult {
     display: flex;
     flex-direction: column;
@@ -325,16 +332,16 @@ svg {
     min-height: 300px;
 }
 
-.card {
-    width: 100%;
+.cardd {
+    flex: 1 1 350px; /* minimalna szerokość 250px, pozwala układać w rzędzie */
+    max-width: 350px; /* maksymalna szerokość karty */
     background: #ffffff;
     border: 2px solid #0b3d57;
     border-radius: 12px;
-    padding: 25px;
     box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    animation: slideIn 0.3s ease-out;
     display: flex;
     flex-direction: column;
-    animation: slideIn 0.3s ease-out;
 }
 
 @keyframes slideIn {
